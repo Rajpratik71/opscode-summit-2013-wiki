@@ -72,7 +72,9 @@ What about code coverage?  Simplecov & Rcov won't work because Chef force reload
 
 Where does ChefSpec fit in with RSpec and pure Ruby test tools?  ChefSpec uses RSpec, it just adds a bunch of Chef-specific stuff on top.
 
-Which cookbooks should I look at to get started with ChefSpec?  Look at examples in the ChefSpec project first.  
+Which cookbooks should I look at to get started with ChefSpec?  Look at examples in the ChefSpec project first.  Rsync cookbook is a good example (it uses ChefSpec 2, but the syntax is similar in ChefSpec 3).  Bacon cookbook as well.
+
+Can you use TravisCI to kick off ChefSpec tests?  Seth wrote a tool called strainer (but doesn't use it anymore).  Trick is to use something else to launch Test Kitchen from TravisCI (like EC2).  If you job takes longer than 40 minutes it will get kicked from TravisCI.  Short-term solution as Opscode intends to have a TravisCI-like service for Chef. 
 
 ## What will we do now?  What needs to happen next?
 
