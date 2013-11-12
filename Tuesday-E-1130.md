@@ -10,10 +10,11 @@ Kevin Knoepp
 Jim (Thor) West  
 Adam Vinsh  
 Jeffrey Hulten  
+Adam Jacob  
 
 ## Summary of Discussions
 
-**Pushy will be open sourced**
+**Pushy will be open sourced**, the date has not been decided.
 
 ### What is Pushy?
 * Operates over ZeroMQ
@@ -26,10 +27,17 @@ Jeffrey Hulten
 ### Future
 * Streaming job output
 
-### Opscode Open Source Strategy
+### Opscode strategy for open sourcing projects
 * ...
 * ...
 * Value in proliferation
 * Other considerations
+
+### Locking
+* How to perform resource locking?
+* Controlling number of nodes?
+* Mutex?
+* Delayed notification, with a lock, timeout?
+* Distributed systems
 
 ## What will we do now?  What needs to happen next?
