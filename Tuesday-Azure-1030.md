@@ -36,7 +36,7 @@ Crowbar 1 - Chef is database & Chef 10
 
 Running discovery image in RAM, can bring up a whole new rack of gear
 
-In memory CentOS images
+In memory CentOS images run on nodes pulsing to announce node has been brought up - don't need hard drive installed in gear
 
 Allocate - reboot node and apply BIOS settings
 
