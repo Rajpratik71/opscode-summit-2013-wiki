@@ -3,7 +3,9 @@ What's Up with Berkshelf 3?
 
 ## Conveners
 
-Michael Ivy, Jamie Winsor, Seth Vargo
+[Michael Ivey](https://twitter.com/ivey)
+[Jamie Winsor](https://twitter.com/resetexistence)
+[Seth Vargo](https://twitter.com/sethvargo)
 
 ## Summary of Discussions 
 
@@ -102,4 +104,3 @@ What about Windows support?  Mischa T. will help spearhead this.  Have more issu
 ## What will we do now?  What needs to happen next?
 
 Start bundling the api endpoint into Chef.  Improve Windows support.
-
