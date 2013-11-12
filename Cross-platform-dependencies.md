@@ -1,3 +1,7 @@
+### Convener
+
+[Ian Coffey](http://github.com/iancoffey)
+
 ### (Potential) Issues that came up.
 
 - Including non-essential cookbooks can make render the run fragile
