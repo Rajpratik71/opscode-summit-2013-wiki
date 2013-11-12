@@ -35,8 +35,8 @@ Seattle, Washington 98101
 | 1130 | Working with App Images (Containers)  | [Open Source Policy / Pushy](wiki/Tuesday-E-1130) | [What's up with Berks 3?](wiki/Tuesday-Azure-1130) | [Platform specific dependencies](wiki/Cross-platform-dependencies) |      | Vagrant (chef-solo to chef-zero) |
 | 1230 | Lunch | Lunch | Lunch | Lunch |   Lunch   | Lunch |
 | 1330 | Post deployment verification | Chef Training | [ChefSpec 3](wiki/Tuesday-E-1330) | Wrapping chef-client in erlang | Cloud security | Attribute validation |
-| 1430 | Cookbook Libraries as gems | Chef metrics and monitoring | Cookbook development toolsets | Server conversion to Chef | Openstack | Celluloid (is it good?) |
-| 1600 | Service discovery and Orchestration |  | Test kitchen (a discussion) | Version all the things |  | Private/Enterprise chef support group |
+| 1430 | Cookbook Libraries as gems | Chef metrics and monitoring | [Cookbook development toolsets](wiki/Tuesday-E-1430) | Server conversion to Chef | Openstack | Celluloid (is it good?) |
+| 1600 | Service discovery and Orchestration |  | [Test kitchen - a discussion](wiki/Tuesday-E-1600) | Version all the things |  | Private/Enterprise chef support group |
 
 ### Wednesday, November 13
 
