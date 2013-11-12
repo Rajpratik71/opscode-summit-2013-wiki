@@ -105,8 +105,8 @@ Could package IntelliJ Community Edition with a Chef plugin and call it ChefMine
 
 Event-based code coverage - resource coverage vs. code coverage (given that code coverage seems hard to do)
 
+Hard to figure out how to try to set things up.  Rails emphasis on convention vs. configuration.  Come up with convention that works 80% of the time.  Otherwise we will have a small group of people who are very, very good at this.  There's too many options right now.
+
 ## What will we do now?  What needs to happen next?
 
 Meet in quiet room after this session to work on the DevKit manifesto.  Want to flesh out the manifesto and assign product owners
-
-Assign 
