@@ -6,22 +6,22 @@ Cookbook / ICLA Site
 
 ## Participants [and people that btm saw]
 [Seth Vargo](https://twitter.com/sethvargo)  
-Sean O'Meara  
+[Sean O'Meara](https://twitter.com/someara)  
 Nathan Smith  
-Noah Kantrowitz  
-Miah Johnson  
-Tim Dysinger  
-Ian Meyer  
-Nathen Harvey  
+[Noah Kantrowitz](https://twitter.com/kantrn)  
+[Miah Johnson](https://twitter.com/miah_)  
+[Tim Dysinger](https://twitter.com/dysinger)  
+[Ian Meyer](https://twitter.com/ianmeyer)  
+[Nathen Harvey](https://twitter.com/nathenharvey)  
 Stephen Lauck  
-Steven Danna  
-Stephen Delano  
-Joshua Timberman  
+[Steven Danna](https://twitter.com/SteveDanna)  
+[Stephen Delano](https://twitter.com/sdelano)  
+[Joshua Timberman](https://twitter.com/jtimberman)  
 Jon Ong  
-Pauly Comtois  
-Sascha Bates  
-Scott Christopherson  
-Seth Chisamore  
+[Pauly Comtois](https://twitter.com/paulycomtois)  
+[Sascha Bates](https://twitter.com/sascha_d)  
+[Scott Christopherson](https://twitter.com/Scottopherson)  
+[Seth Chisamore](https://twitter.com/schisamo)  
 Sean Horn   
 Cary Penniman  
 lots more...  
