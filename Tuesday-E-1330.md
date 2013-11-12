@@ -9,6 +9,8 @@ ChefSpec 3
 
 ## Summary of Discussions
 
+ChefSpec 3 has been released!  Pretty stable now.
+
 What happened between ChefSpec 2 & ChefSpec 3?
 
 Seth started working on ChefSpec with the original author.  Identified where the code was terrible with backwards compatibility and technical issues.
@@ -47,6 +49,10 @@ Test kitchen runner will be more like ChefSpec at a higher level
 
 ChefSpec 3 supports Windows (for example, Windows doesn't have curl, so something else is needed)
 
+Personally despise Minitest matchers, but willing to add that if you have good ideas.
+
+Should be packaged in the Chef Development Kit (Chef Omnibus, but for development & toolchain) as the standard way to test cookbooks.
+
 Questions
 =========
 
@@ -58,11 +64,12 @@ Issues upgrading?  ChefSpec 3 already deprecates shift syntax, so no issues migr
 
 Testing an LWRP?  How do you do it on the unit level?  Nested cookbook with stupid little recipes embedded.  Unfortunately Chef really wants to read files from the file system in a directory tree.  Berkshelf doesn't address this issue.
 
-Do you have access to the cookbook path?  Seems hard to manage.  LWRPs are hard because of the way that they are dynamically instantiated in Chef.  If you dynamically create cookbooks it's hard to figure out where it fails - then you start commenting out tests to find out what is broken.
+Do you have access to the cookbook path?  Seems hard to manage.  LWRPs are hard because of the way that they are dynamically instantiated in Chef.  If you dynamically create cookbooks it's hard to figure out where it fails - then you start commenting out tests to find out what is broken.  Host file cookbook has a good example.
 
 Should I wait for ChefSpec 4 to come out before starting to use ChefSpec?  ChefSpec 3 is super-stable, so it is definitely worth looking at.  ChefSpec 2 is not, so avoid that one (if you aren't using Chef 11).
 
 What about code coverage?  Simplecov & Rcov won't work because Chef force reloads constants, which breaks all current code coverage tools.  Can't even parse YAST tree.  Worse in LWRP.  Not easy to do code coverage in Chef unit tests, even though it would be good to know how much of your cookbook is tested.
 
-
 ## What will we do now?  What needs to happen next?
+
+Write librarian integration (won't write software for a tool not use).  Would like someone who uses librarian to work on it.
