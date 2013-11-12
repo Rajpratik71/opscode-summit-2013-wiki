@@ -71,7 +71,7 @@ Databags for a bunch of expected drive layouts
 
 Neat thing about BIOS barclamp - will reorder NICs for you (despite what PCI bus thinks it should be)
 
-How to customize OS install?
+How to customize OS install?  Use dev tool.  Can't assign kickstarts/preseeds per OS/MAC address, only by software stack
 
 Need crowbar development environment
 
