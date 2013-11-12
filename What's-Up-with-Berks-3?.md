@@ -37,5 +37,7 @@ Seth Vargo has been spearheading performance improvements.  Motherbrain - highly
 
 Might notice commands like "help" and "version" take too long.  Will address performance of that.
 
-Use Thor heavily for command line, considering dropping that because it uses reflection at runtime & that's slow
+Use Thor heavily for command line, considering dropping that because it uses reflection at runtime & that's slow.  Considering using Clamp - more object-oriented method and can pass loading options and lazy-load dependencies instead of having one huge Thorfile that is getting hard to maintain - like Ruby's autoload
+
+
 
