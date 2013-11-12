@@ -2,10 +2,10 @@ Cookbook / ICLA Site
 =============
 
 ## Convener
-Bryan McLellan
+[Bryan McLellan](https://twitter.com/btmspox)
 
 ## Participants [and people that btm saw]
-Seth Vargo  
+[Seth Vargo](https://twitter.com/sethvargo)  
 Sean O'Meara  
 Nathan Smith  
 Noah Kantrowitz  
