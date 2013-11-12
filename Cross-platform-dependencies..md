@@ -19,7 +19,6 @@
 - Write a client-side feature at the hack tomorrow to sanely include cookbooks for a platform.
 
 Proposals 
-- recipe level dependencies?
-- lazy load recipes
-- add supports syntax map
+- file path attrs more of a social standard
+- cookbook depends conditionals
 - - supports "windows", {depends: blah}
