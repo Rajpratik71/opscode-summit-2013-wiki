@@ -70,6 +70,10 @@ Training has evolved - have had more success training beginners to write simple 
 
 Split cookbooks like apache into simple and advanced settings?
 
+Chef koans?  Git Real challenges from Code School.  Chef School?
+
+Want to approach at a high level - how do I get a basic LAMP stack setup and deploy an application within it?  (PUPHPET or SoloWizard)
+
 ## What will we do now?  What needs to happen next?
 
 Meet in quiet room after this session to work on the DevKit manifesto.  Want to flesh out the manifesto and assign product owners
