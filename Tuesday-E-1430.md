@@ -58,11 +58,17 @@ Is this not the idea of the application cookbook?  Write a simplification cookbo
 
 Web/interface wizard to define a skeleton cookbook
 
-Scary to depend on the attribute documentation written by the developer.
+Scary to depend on the attribute documentation written by the developer.  Most cookbook documentation is simply a list of attributes.
 
 Beginner version of cookbooks?
 
+Example - apache cookbook covered the most general use case.  Now it's a zillion of different attributes & very hard for beginners to get started with it.
 
+Is it too much abstraction to simply fill out a form to create a cookbook.
+
+Training has evolved - have had more success training beginners to write simple cookbooks instead reusing community cookbooks.  Currently not very easy to reuse community cookbooks.
+
+Split cookbooks like apache into simple and advanced settings?
 
 ## What will we do now?  What needs to happen next?
 
