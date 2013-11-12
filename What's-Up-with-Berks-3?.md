@@ -61,3 +61,17 @@ What if I'm on an airplane and need the API?  Still have the lock file.  Will st
 What if lock file says something different than the metadata?  Right now I delete my lock files all the time.  This is because Berkshelf currently lies to you, that should be fixed in Berkshelf 3.  (Technically not lying to you, but not noticing it because the version is not on the cleared list - we can hope that it works out or explode.  We chose to hope.)
 
 Also keep in mind we didn't know Berkshelf would be useful ;-)  We didn't mean to open source it when we did, thus Berkshelf 3.
+
+Would love to have more people working on Berkshelf.  Cache builder is an open ticket.
+
+If we have private github cookbooks on hosted Chef, how are they indexed?  For internal github, Chef server is artifact server - pattern used is to sync github with Chef server with a CI latch.  Then have an internal Berks API server that indexes the Chef server.  Then it will merge and index the two sources.
+
+`Berksefile` file example:
+
+    SOURCE "BAPI.UNDEAD.NET"
+    SOURCE "API.BERKS.COM"
+    METADATA
+
+API server has an endpoint to point at your github via the source attribute.  Order matters here.  Will grab from my local API endpoint first `BAPI.UNDEAD.NET`.  Can also still explicitly put git cookbook references in the `Berksfile` as well.
+
+Should never have a request for nested Berksfiles again.
