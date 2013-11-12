@@ -45,4 +45,15 @@ Currently uses `chef-solo` under the hood.  Will change in ChefSpec 4 to use `ch
 Primary goal of ChefSpec 4 - provide integration level matching
 Test kitchen runner will be more like ChefSpec at a higher level
 
+ChefSpec 3 supports Windows.
+
+Questions
+=========
+
+What do you mean by "higher level" tests?  Idea would be able to pull in nagios tests instead of integration level tests.
+
+What's the difference between ChefSpec and ServerSpec?  ServerSpec wasn't designed to work with test-kitchen.  You end up re-writing the definitions you've already made in Chef (that being said Seth writes most of his tests right now in ServerSpec).  ChefSpec 4 would address this deficiency (if it supports integration-level tests).  Write monitors as tests.
+
+
+
 ## What will we do now?  What needs to happen next?
