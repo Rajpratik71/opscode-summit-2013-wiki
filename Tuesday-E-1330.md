@@ -60,6 +60,7 @@ Testing an LWRP?  How do you do it on the unit level?  Nested cookbook with stup
 
 Do you have access to the cookbook path?  Seems hard to manage.  LWRPs are hard because of the way that they are dynamically instantiated in Chef.  If you dynamically create cookbooks it's hard to figure out where it fails - then you start commenting out tests to find out what is broken.
 
+Should I wait for ChefSpec 4 to come out before starting to use ChefSpec?  ChefSpec 3 is super-stable, so it is definitely worth looking at.  ChefSpec 2 is not, so avoid that one (if you aren't using Chef 11).
 
 
 ## What will we do now?  What needs to happen next?
