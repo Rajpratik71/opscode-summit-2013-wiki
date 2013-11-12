@@ -4,7 +4,7 @@
 
 - Test coverage increases exponentially
 
-- Case statement complexity
+- Huge case statements complexity and decrease readability. 
 
 - Attribute and library loading happens regardless if you use the cookbooks.
 
