@@ -32,7 +32,7 @@ Seattle, Washington 98101
 | Time | D | E | Azure                                  | Cobalt | Cyan | Steel A |
 |------|---|---|----------------------------------------|--------|------|---------|
 | 1030 | [Cookbook / ICLA Site](wiki/Tuesday-D-1030)  | [Infrastructure as Code, as software](wiki/Tuesday-E-1030)  |[Introduction to Crowbar](wiki/Tuesday-Azure-1030)|        |      |         |
-| 1130 | Working with App Images (Containers)  | [Open Source Policy / Pushy](wiki/Tuesday-E-1130) | What's up with Berks 3?(wiki/Tuesday-Azuare-1130) | Platform specific dependencies |      | Vagrant (chef-solo to chef-zero) |
+| 1130 | Working with App Images (Containers)  | [Open Source Policy / Pushy](wiki/Tuesday-E-1130) | [What's up with Berks 3?](wiki/Tuesday-Azuare-1130) | Platform specific dependencies |      | Vagrant (chef-solo to chef-zero) |
 | 1330 | Post deployment verification | Chef Training | ChefSpec 3 | Wrapping chef-client in erlang | Cloud security | Attribute validation |
 | 1430 | Cookbook Libraries as gems | Chef metrics and monitoring | Cookbook development toolsets | Server conversion to Chef | Openstack | Celluloid (is it good?) |
 | 1600 | Service discovery and Orchestration |  | Test kitchen (a discussion) | Version all the things |  | Private/Enterprise chef support group |
