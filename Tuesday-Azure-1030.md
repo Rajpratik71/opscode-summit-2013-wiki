@@ -93,4 +93,6 @@ Does it scale?  Crowbar backs off when you try to scale horizontally
 
 Crowbar is a bar clamp of itself
 
+Conduit - flexible network attributes/specify bus order
+
 ## What will we do now?  What needs to happen next?
