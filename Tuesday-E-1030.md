@@ -1,5 +1,5 @@
-## If it's infrastructure as code, why don't we write it like the rest of our software?
-### Jeff Smith - [Rally Software](http://github.com/RallySoftware-cookbooks)
+### If it's infrastructure as code, why don't we write it like the rest of our software?
+#### Jeff Smith - [Rally Software](http://github.com/RallySoftware-cookbooks)
 
 ## Participants
 
