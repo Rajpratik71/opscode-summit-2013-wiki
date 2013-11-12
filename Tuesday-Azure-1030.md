@@ -96,6 +96,7 @@ Crowbar is a bar clamp of itself
 
 Conduit - flexible network attributes/specify bus order
 
+Uninstall - not supported
 How do you handle race conditions in network device name?  Crowbar abstracts it out.  Will force Ubuntu and SUSE to do the right thing.
 
 Does crowbar serve the purpose of being a network inventory server?  Database is what is coming from ohai in the Chef server (even with Postgres it's just Chef data) - depends on what you want to do with the inventory (not really for the accountants or to collect historical data).
