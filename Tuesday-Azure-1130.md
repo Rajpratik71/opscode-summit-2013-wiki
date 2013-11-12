@@ -20,7 +20,7 @@ New community site will expose Berks API endpoint if you want to bundle the comm
 
 Berkshelf doesn't currently support indexing cookbooks.  Now with just a simple script you can update and re-index your own catalogue of cookbooks.
 
-berks apply - takes resolve dependency tree applied as cookbook versions on an environment.  Get exact same versions in an environment - need this at Riot
+`berks apply` - takes resolve dependency tree applied as cookbook versions on an environment.  Get exact same versions in an environment - need this at Riot
 
 Biggest complaint about Berkshelf
 1) want results that don't lie
@@ -46,7 +46,7 @@ Might notice commands like "help" and "version" take too long.  Will address per
 
 Use Thor heavily for command line, considering dropping that because it uses reflection at runtime & that's slow.  Considering using Clamp - more object-oriented method and can pass loading options and lazy-load dependencies instead of having one huge Thorfile that is getting hard to maintain - like Ruby's autoload
 
-Now when running "berks help" won't also load the installer.
+Now when running `berks help` won't also load the installer.
 
 What about Ruby autoloading?  Would like to use it.  Autoload if you define a constant as a symbol, ruby will search for symbol of that name to require that file to initialize a file.  Long thread on ruby forum that it's not thread safe.  Matz said it was dead in Ruby 3.  That being said Bundler uses autoloading.
 
