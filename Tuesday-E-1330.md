@@ -54,6 +54,10 @@ What do you mean by "higher level" tests?  Idea would be able to pull in nagios 
 
 What's the difference between ChefSpec and ServerSpec?  ServerSpec wasn't designed to work with test-kitchen.  You end up re-writing the definitions you've already made in Chef (that being said Seth writes most of his tests right now in ServerSpec).  ChefSpec 4 would address this deficiency (if it supports integration-level tests).  Write monitors as tests.
 
+Issues upgrading?  ChefSpec 3 already deprecates shift syntax, so no issues migrating from 3 to 4.
 
+Testing an LWRP?  How do you do it on the unit level?  Nested cookbook with stupid little recipes embedded.  Unfortunately Chef really wants to read files from the file system in a directory tree.  Berkshelf doesn't address this issue.
+
+Do you have access to the cookbook path?  Seems hard to manage.  LWRPs are hard because of the way that they are dynamically instantiated in Chef.
 
 ## What will we do now?  What needs to happen next?
