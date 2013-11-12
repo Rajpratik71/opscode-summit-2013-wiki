@@ -64,7 +64,7 @@ Also keep in mind we didn't know Berkshelf would be useful ;-)  We didn't mean t
 
 Would love to have more people working on Berkshelf.  Cache builder is an open ticket.
 
-If we have private github cookbooks on hosted Chef, how are they indexed?  For internal github, Chef server is artifact server - pattern used is to sync github with Chef server with a CI latch.  Then have an internal Berks API server that indexes the Chef server.  Then it will merge and index the two sources.
+If we have private github cookbooks on hosted Chef, how are they indexed?  For internal github, Chef server is artifact server - pattern used is to sync github with Chef server with a CI latch.  Then have an internal Berks API server that indexes the Chef server.  Then it will merge and index the two sources.  Will have to run an API server locally if you are using Hosted Chef or Private Chef.  (There's a cookbook for it!)
 
 `Berksefile` file example:
 
@@ -75,3 +75,6 @@ If we have private github cookbooks on hosted Chef, how are they indexed?  For i
 API server has an endpoint to point at your github via the source attribute.  Order matters here.  Will grab from my local API endpoint first `BAPI.UNDEAD.NET`.  Can also still explicitly put git cookbook references in the `Berksfile` as well.
 
 Should never have a request for nested Berksfiles again.
+
+Without a dynamic cache builder, could generate a static file with a post commit latch.
+
