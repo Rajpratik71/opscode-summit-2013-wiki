@@ -21,6 +21,7 @@ Custom matchers now available in ChefSpec 3.  Can automatically pull in custom m
 
 ChefSpec 3 does dependency resolution automatically with Berkshelf - better Berkshelf integration.
 
+`describe recipe` and `describe cookbook` as recommended primitives.
 
 
 
