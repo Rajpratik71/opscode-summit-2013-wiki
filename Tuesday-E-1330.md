@@ -42,7 +42,7 @@ Testing roles - documented in README.
 
 ChefSpec 3 is very extensible now, well-tested, with lots of examples.
 
-Currently uses `chef-solo` under the hood.  Will change in ChefSpec 4 to use `chef-zero`.
+Currently uses `chef-solo` under the hood.  Will change in ChefSpec 4 to use `chef-zero` (but will give option to use `chef-solo`).
 
 Primary goal of ChefSpec 4 - provide integration level matching
 Test kitchen runner will be more like ChefSpec at a higher level
