@@ -11,6 +11,8 @@ jim (Thor) west
 
 ## Summary of Discussions
 
+## Chef DevKit Manifesto 
+
 Vagrant and Berkshelf have become the de-facto Chef development workflow, but it is not properly documented.
 
 Plus, getting your Chef Development Workstation environment kinda blows with all these extra tools.
@@ -42,4 +44,8 @@ Ansible is kicking Opscode's ass on getting set up quickly.  We can do better an
 
 Tools shouldn't fall down if you have a f*cked up firewalled environment with no access to the community cookbooks.
 
+## How to build something on top of Chef
+
 ## What will we do now?  What needs to happen next?
+
+Meet in quiet room after this session.  Want to flesh out the manifesto and assign product owners
