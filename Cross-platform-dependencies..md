@@ -15,3 +15,4 @@
 - Moving cross platform functionality to providers may be more complex but cleaner.
 
 - File standards in place of massive case statements.
+
