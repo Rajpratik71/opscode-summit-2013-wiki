@@ -8,7 +8,7 @@
 
 - Test coverage increases exponentially
 
-- Huge case statements complexity and decrease readability. 
+- Huge case statements grow complexity and decrease readability. 
 
 - Attribute and library loading happens regardless if you use the cookbooks.
 
