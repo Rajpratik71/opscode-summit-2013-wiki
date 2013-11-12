@@ -99,7 +99,7 @@ Could package IntelliJ Community Edition with a Chef plugin and call it ChefMine
 * Resource completion
 * Testing framework (ChefSpec/ChefZero)
 * Search completion
-* Foodcritic/code linking
+* Foodcritic/code linting
 * chef-shell integration
 * Test kitchen integration
 
