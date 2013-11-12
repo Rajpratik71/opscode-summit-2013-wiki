@@ -117,3 +117,5 @@ Overlap in work with what the Razor people are doing.  Razor is annoying because
 Is there a pattern to scale the management node?  It's just nginx.  Edit the crowbar barclamp to add a proxy to the nginx node.  Upgrade github repo and pull from source or update package from cache.
 
 ## What will we do now?  What needs to happen next?
+
+Will be demoing Crowbar 2 tomorrow and recap today
