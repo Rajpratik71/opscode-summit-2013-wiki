@@ -93,6 +93,12 @@ Could package IntelliJ Community Edition with a Chef plugin and call it ChefMine
 
 [Puppet Geppetto](http://puppetlabs.com/blog/geppetto-a-puppet-ide)
 
+1.0 Feature list for IDE integration
+
+* Syntax highlighting
+* Resource completion
+* Testing framework (ChefSpec/ChefZero)
+
 
 ## What will we do now?  What needs to happen next?
 
