@@ -72,7 +72,11 @@ Split cookbooks like apache into simple and advanced settings?
 
 Chef koans?  Git Real challenges from Code School.  Chef School?
 
-Want to approach at a high level - how do I get a basic LAMP stack setup and deploy an application within it?  (PUPHPET or SoloWizard)
+Want to approach at a high level - how do I get a basic LAMP stack setup and deploy an application within it?  ( ( [PuPHPet](https://puphpet.com) or [SoloWizard](http://www.solowizard.com) )
+
+Besides Opscode most people don't care about having a cookbook that works on a zillion different platforms - just care about one.  Also only care about problems of their business, not problems of Chef.
+
+
 
 ## What will we do now?  What needs to happen next?
 
