@@ -6,6 +6,8 @@ Cookbook Development Environment Best Practices
 [Charles Johnson](https://twitter.com/chipadeedoodah)
 
 ## Participants
+jim (Thor) west
+, ...
 
 ## Summary of Discussions
 
