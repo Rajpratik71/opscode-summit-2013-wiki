@@ -25,6 +25,10 @@ ChefSpec 3 does dependency resolution automatically with Berkshelf - better Berk
 
 All documentation is now inline using yard and is generated.  Documentation online is most current.  Docs are versioned with the gem so you'll get the documentation corresponding to the version you have installed.
 
+Testing against a huge Travis CI matrix.  Build should now be green all the time.
+
+Roles and databags are now top-level macros so easier to use in ChefSpec 3.
+
 
 
 
