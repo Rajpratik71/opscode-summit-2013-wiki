@@ -54,7 +54,15 @@ Should we be building tooling on top of Chef on top of this?
 
 Define standard metadata for cookbooks?
 
-Is this not the idea of the application cookbook?
+Is this not the idea of the application cookbook?  Write a simplification cookbook/wrapper?
+
+Web/interface wizard to define a skeleton cookbook
+
+Scary to depend on the attribute documentation written by the developer.
+
+Beginner version of cookbooks?
+
+
 
 ## What will we do now?  What needs to happen next?
 
