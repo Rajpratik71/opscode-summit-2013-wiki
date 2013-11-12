@@ -46,6 +46,16 @@ Tools shouldn't fall down if you have a f*cked up firewalled environment with no
 
 ## How to build something on top of Chef
 
+Problem people run into:
+
+* What attributes should I expose? (chef solo vs. chef server vs. platform)
+
+Should we be building tooling on top of Chef on top of this?
+
+Define standard metadata for cookbooks?
+
+
+
 ## What will we do now?  What needs to happen next?
 
 Meet in quiet room after this session.  Want to flesh out the manifesto and assign product owners
