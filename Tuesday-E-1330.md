@@ -58,6 +58,8 @@ Issues upgrading?  ChefSpec 3 already deprecates shift syntax, so no issues migr
 
 Testing an LWRP?  How do you do it on the unit level?  Nested cookbook with stupid little recipes embedded.  Unfortunately Chef really wants to read files from the file system in a directory tree.  Berkshelf doesn't address this issue.
 
-Do you have access to the cookbook path?  Seems hard to manage.  LWRPs are hard because of the way that they are dynamically instantiated in Chef.
+Do you have access to the cookbook path?  Seems hard to manage.  LWRPs are hard because of the way that they are dynamically instantiated in Chef.  If you dynamically create cookbooks it's hard to figure out where it fails - then you start commenting out tests to find out what is broken.
+
+
 
 ## What will we do now?  What needs to happen next?
