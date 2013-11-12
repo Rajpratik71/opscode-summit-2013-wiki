@@ -1,9 +1,12 @@
-Session Title
+Cookbook / ICLA Site
 =============
 
 ## Convener
+Bryan McLellan
 
 ## Participants
+Seth Vargo
+...
 
 ## Summary of Discussions
 
