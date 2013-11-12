@@ -84,6 +84,14 @@ Declaration from Adam - we'll ship the api server in with Chef Server - so it wi
 
 Why not have an Erlang API endpoint in the Chef Server?  That's probably what Adam meant.  Don't want to add more Ruby.  (Should have written Berkshelf in Exilir and call it a day).  It will sit in the Chef Server and it will be fine.
 
+Does this change how I currently use Berkshelf?  No besides needing the API endpoint.
+
+Will there be closer integration with knife?  Right now it's a pain to have to run `knife cookbook create` vs `berks cookbook create`.  Definite maybe.  Will standardize the dependency solvers and share codebase.  This integration should be better now that Opscode will be recommending Berkshelf as the recommended workflow.
+
+Enhancement idea - sucks that `knife cookbook create` does not give you tests.
+
+Perhaps need configurable template for cookbook creation options.  Ticket open on Berkshelf right now.  Should have templates in git to control berkshelf generate behaviour.  Person in Oregon will hopefully right this.
+
 
 
 
