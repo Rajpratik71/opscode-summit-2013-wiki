@@ -114,4 +114,8 @@ Compare the experience to starting a new Rails project - a lot further down the 
 
 ## What will we do now?  What needs to happen next?
 
-Meet in quiet room after this session to work on the DevKit manifesto.  Want to flesh out the manifesto and assign product owners
+Meet in quiet room after this session to work on the DevKit manifesto.  Want to flesh out the manifesto and assign product owners.
+
+Communicate on this back to the community so that it is clear that we are making forward progress.
+
+Establish working groups.
