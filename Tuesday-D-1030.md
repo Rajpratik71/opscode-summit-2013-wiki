@@ -6,6 +6,7 @@ Bryan McLellan
 
 ## Participants
 Seth Vargo
+jim (Thor) west
 ...
 
 ## Summary of Discussions
