@@ -70,6 +70,14 @@ Should I wait for ChefSpec 4 to come out before starting to use ChefSpec?  ChefS
 
 What about code coverage?  Simplecov & Rcov won't work because Chef force reloads constants, which breaks all current code coverage tools.  Can't even parse YAST tree.  Worse in LWRP.  Not easy to do code coverage in Chef unit tests, even though it would be good to know how much of your cookbook is tested.
 
+Where does ChefSpec fit in with RSpec and pure Ruby test tools?  ChefSpec uses RSpec, it just adds a bunch of Chef-specific stuff on top.
+
+Which cookbooks should I look at to get started with ChefSpec?  Look at examples in the ChefSpec project first.  
+
 ## What will we do now?  What needs to happen next?
 
 Write librarian integration (won't write software for a tool not use).  Would like someone who uses librarian to work on it.
+
+Add ChefSpec to community cookbooks (talk to Sean O'Meara)
+
+Make NTP cookbook an example of ChefSpec use.
