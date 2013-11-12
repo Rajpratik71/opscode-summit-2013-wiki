@@ -23,4 +23,19 @@ Biggest problem - dynamic dependency resolver - used to download dependencies, r
 
 Solved with API server - application runs at api.berkshelf.com indexes cookbooks on github community site.  Looks at cookbook metadata publishing for anyone to consume.  No longer have to resolve these dependencies yourself.
 
+Can merge results together from multiple API servers
+
+Have tickets open for a local git server and a file system API server
+
+Now you can stop asking us for nested Berksfiles
+
+Not a presolved graph, it's a state graph of dependencies in JSON.  Download new state of the universe on each one.  Download massive JSON file.  Berkshelf still takes data and develops graph at runtime, it's not a pre-solved graph, but this improves the speed of the resolution.  It's slow currently on large Berskfiles because it's hitting a lot of repos that aren't cached.
+
+Also similar to Bundler 1.5, can parallelize workers because we know everything we need to do up front.
+
+Seth Vargo has been spearheading performance improvements.  Motherbrain - highly concurrent.  Ended up in ridley when it should have been separated out into gem.
+
+Might notice commands like "help" and "version" take too long.  Will address performance of that.
+
+Use Thor heavily for command line, considering dropping that because it uses reflection at runtime & that's slow
 
