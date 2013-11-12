@@ -7,7 +7,7 @@ Offial announcement - Opscode will take over ownership of Berkshelf.  Opscode wi
 Answer questions about Berkshelf 3
 
 Things to be excited about:
-Will stop lying to you about resolution.  Since there is no authoritative place to make decisions about what cookbooks used can guess badly.  Now uses full graph of changes.  Requires API server now with a universe JSON index of the community cookbooks.  Will need to run a Berks API server to index.
+Will stop lying to you about resolution.  Since there is no authoritative place to make decisions about what cookbooks used can guess badly.  Now uses full graph of changes.  Requires API server now with a `universe.json` index of the community cookbooks.  Will need to run a Berks API server to index.
 
 New community site will expose Berks API endpoint if you want to bundle the community site to do this
 
@@ -81,4 +81,9 @@ Without a dynamic cache builder, could generate a static file with a post commit
 Heroku could be used.
 
 Declaration from Adam - we'll ship the api server in with Chef Server - so it will be done!
+
+Why not have an Erlang API endpoint in the Chef Server?  That's probably what Adam meant.  Don't want to add more Ruby.  (Should have written Berkshelf in Exilir and call it a day).  It will sit in the Chef Server and it will be fine.
+
+
+
 
