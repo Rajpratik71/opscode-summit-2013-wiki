@@ -16,3 +16,6 @@
 
 - File standards in place of massive case statements.
 
+- Write a client-side feature at the hack tomorrow to sanely include cookbooks for a platform.
+
+Proposal - recipe level dependencies?
