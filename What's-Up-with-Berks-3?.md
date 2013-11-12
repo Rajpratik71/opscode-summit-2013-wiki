@@ -55,3 +55,9 @@ Will post instructions on how to use Berkshelf 3
 Berkshelf will go into the Chef Omnibus installer - yay!  Better support tools like vagrant, delivering tools and making the experience better in getting started with Berkshelf.  Whatever feels good and what people want.
 
 Triage meeting will be held weekly - don't know the time yet, but it won't be @ 1pm on Thursday as that's the worst time for the core committers.
+
+What if I'm on an airplane and need the API?  Still have the lock file.  Will still honour the lock file.  If you haven't made any changes it will use it.  Don't touch your Berkshelf or lock file.
+
+What if lock file says something different than the metadata?  Right now I delete my lock files all the time.  This is because Berkshelf currently lies to you, that should be fixed in Berkshelf 3.  (Technically not lying to you, but not noticing it because the version is not on the cleared list - we can hope that it works out or explode.  We chose to hope.)
+
+Also keep in mind we didn't know Berkshelf would be useful ;-)  We didn't mean to open source it when we did, thus Berkshelf 3.
