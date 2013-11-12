@@ -52,3 +52,6 @@ Can use `gem berkshelf install --pre`, but suggest using master branch
 
 Will post instructions on how to use Berkshelf 3
 
+Berkshelf will go into the Chef Omnibus installer - yay!  Better support tools like vagrant, delivering tools and making the experience better in getting started with Berkshelf.  Whatever feels good and what people want.
+
+Triage meeting will be held weekly - don't know the time yet, but it won't be @ 1pm on Thursday as that's the worst time for the core committers.
