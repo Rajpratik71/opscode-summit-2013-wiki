@@ -18,4 +18,6 @@
 
 - Write a client-side feature at the hack tomorrow to sanely include cookbooks for a platform.
 
-Proposal - recipe level dependencies?
+Proposals 
+- recipe level dependencies?
+- lazy load recipes
