@@ -40,4 +40,10 @@ Adam Jacob
 * Delayed notification, with a lock, timeout?
 * Distributed systems
 
+### pushy vs knife ssh 
+* zeromq instead of ssh (transport)
+* rest authentication instead of ssh
+* doesn't need direct network access
+* able to require quorum
+
 ## What will we do now?  What needs to happen next?
