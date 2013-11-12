@@ -35,6 +35,7 @@ Start of the manifesto:
 * Should work behind corporate proxies
 * Should be defined by the community
 * Should dovetail with the work being done on the Cookbook Style Guide
+* Should define convention
 
 Owners should be both in and outside Opscode - history has shown that the Opscode-recommended workflow got blow of the water by Berkshelf/Jamie Winsor of Riot Games.  Community-defined standards are better than the organized-proscribed ones
 
