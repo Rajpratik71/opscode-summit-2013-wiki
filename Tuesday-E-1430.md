@@ -45,6 +45,10 @@ Ansible is kicking Opscode's ass on getting set up quickly.  We can do better an
 
 Tools shouldn't fall down if you have a f*cked up firewalled environment with no access to the community cookbooks.
 
+Stake some signposts
+
+Don't make Chef development to become a silo (make a ChefDK for your organization) - de-siloize operations and development.
+
 ## How to build something on top of Chef
 
 Problem people run into:
