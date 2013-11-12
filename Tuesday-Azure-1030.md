@@ -2,7 +2,7 @@ Introduction to Crowbar
 =======================
 
 ## Convener
-Dell guy ;-)
+Judd (?) - Dell guy
 
 ## Participants
 
@@ -95,5 +95,7 @@ Does it scale?  Crowbar backs off when you try to scale horizontally
 Crowbar is a bar clamp of itself
 
 Conduit - flexible network attributes/specify bus order
+
+How do you handle race conditions in network device name?  Crowbar abstracts it out.  Will force Ubuntu and SUSE to do the right thing.
 
 ## What will we do now?  What needs to happen next?
