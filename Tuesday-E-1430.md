@@ -23,6 +23,16 @@ Would like to create a manifesto at a high level on what a Chef development envi
 
 Start of the manifesto:
 
- 
+* Should have defined product owners
+* Should support all major OSes first-class: Win/Linux/Mac OS X
+* Should cover everything prior to code commit (workstation)
+* Should be packaged
+* Should come packaged with testing tools
+* Should prescribe workflow
+
+Owners should be both in and outside Opscode - don't want a repeat of having the Opscode-recommended workflow that got blow of the water by Berkshelf/Jamie Winsor of Riot Games.
+
+Stop leaving Windows out in the cold
+
 
 ## What will we do now?  What needs to happen next?
