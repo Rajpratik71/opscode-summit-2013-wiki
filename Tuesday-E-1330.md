@@ -23,6 +23,9 @@ ChefSpec 3 does dependency resolution automatically with Berkshelf - better Berk
 
 `describe recipe` and `describe cookbook` as recommended primitives.
 
+All documentation is now inline using yard and is generated.  Documentation online is most current.  Docs are versioned with the gem so you'll get the documentation corresponding to the version you have installed.
+
+
 
 
 ## What will we do now?  What needs to happen next?
