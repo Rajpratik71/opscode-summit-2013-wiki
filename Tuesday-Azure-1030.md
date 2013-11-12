@@ -11,11 +11,11 @@ Two and a half years ago colleagues tried to install
 OpenStack.  Hellish to install OpenStack.  Gear still in boxes
 nothing was going on.
 
-Crowbar focused on bringing up near gear
+Crowbar focused on bringing up new gear - so you don't f*ck it up and have to go back into the datacenter
 
 Straight DHCPD, no cobbler
 
-Crowbar 1
+Crowbar 1 - being demoed now
 
 Crowbar 2 - more sophisticated state model
 
