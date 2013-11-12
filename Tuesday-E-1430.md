@@ -112,6 +112,8 @@ Workflow is left as an exercise to the reader - this sucks!
 
 Compare the experience to starting a new Rails project - a lot further down the road.
 
+Chef starter-kit - package that includes all the tools (ChefDK).
+
 ## What will we do now?  What needs to happen next?
 
 Meet in quiet room after this session to work on the DevKit manifesto.  Want to flesh out the manifesto and assign product owners.
