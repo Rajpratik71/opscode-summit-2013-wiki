@@ -29,6 +29,12 @@ Testing against a huge Travis CI matrix.  Build should now be green all the time
 
 Roles and databags are now top-level macros so easier to use in ChefSpec 3.
 
+Abandoned semantic matchers - action_resource - better matching between what you are writing in Chef vs ChefSpec
+
+Breaking change - render file matcher doesn't exist anymore.  In ChefSpec 2 this could refer to multiple things.  With Chef 11 files became a first-class resource, now there is a `create_file` matcher and a chainable matcher.
+
+Every resource matcher is now chain able (`with_gid`, `with_owner`, etc.)
+
 
 
 
