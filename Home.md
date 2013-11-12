@@ -31,7 +31,7 @@ Seattle, Washington 98101
 
 | Time | D | E | Azure                                  | Cobalt | Cyan | Steel A |
 |------|---|---|----------------------------------------|--------|------|---------|
-| 1030 | [Cookbook / ICLA Site](wiki/Tuesday-D-1030)  |   |[SESSION TITLE](wiki/Tuesday-Azure-1030)|        |      |         |
+| 1030 | [Cookbook / ICLA Site](wiki/Tuesday-D-1030)  | [Infrastructure as Code, as software)[wiki/Tuesday-E-1030]  |[SESSION TITLE](wiki/Tuesday-Azure-1030)|        |      |         |
 | 1130 |   |   |                                        |        |      |         |
 | 1330 |   |   |                                        |        |      |         |
 | 1430 |   |   |                                        |        |      |         |
