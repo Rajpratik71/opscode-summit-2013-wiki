@@ -2,7 +2,7 @@ Introduction to Crowbar
 =======================
 
 ## Convener
-Judd - Dell guy - "Systems Principal Engineer"
+[Judd Maltin](https://twitter.com/newgoliath) - "Systems Principal Engineer @Dell"
 
 ## Participants
 
