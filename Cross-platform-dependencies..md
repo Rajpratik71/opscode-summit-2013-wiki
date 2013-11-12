@@ -1,4 +1,4 @@
-## (Potential) Issues 
+### (Potential) Issues that came up.
 
 - Can makes cookbooks fragiles
 
@@ -10,7 +10,7 @@
 
 - Dependencies can be become a rats nest.
 
-## Is there anyway to make cross platform functionality more obvious and less complex?
+### Ways to make cross platform functionality more obvious and less complex?
 
 - Moving cross platform functionality to providers may be more complex but cleaner.
 
