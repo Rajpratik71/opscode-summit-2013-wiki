@@ -16,13 +16,11 @@
 
 ### Ways to make cross platform functionality more obvious and less complex?
 
-- Moving cross platform functionality to providers may be more complex but cleaner.
-
 - File standards in place of massive case statements.
 
-- Write a client-side feature at the hack tomorrow to sanely include cookbooks for a platform.
+- Extend cookbook dependencies
 
-Proposal:
+### Proposal
 - For the in-recipe stuff, file path attributes could become more of an accepted standard.
 - For actual cookbook dependencies, submit a pr introducing conditionals on "supports"
 eg. supports "windows", {depends: blah}
