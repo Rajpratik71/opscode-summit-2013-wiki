@@ -2,6 +2,7 @@ Introduction to Crowbar
 =======================
 
 ## Convener
+Dell guy ;-)
 
 ## Participants
 
