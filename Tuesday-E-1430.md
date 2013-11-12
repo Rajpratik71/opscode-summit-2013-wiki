@@ -98,6 +98,10 @@ Could package IntelliJ Community Edition with a Chef plugin and call it ChefMine
 * Syntax highlighting
 * Resource completion
 * Testing framework (ChefSpec/ChefZero)
+* Search completion
+* Foodcritic/code linking
+* chef-shell integration
+* Test kitchen integration
 
 Event-based code coverage - resource coverage vs. code coverage (given that code coverage seems hard to do)
 
