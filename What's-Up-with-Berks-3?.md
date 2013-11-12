@@ -92,6 +92,4 @@ Enhancement idea - sucks that `knife cookbook create` does not give you tests.
 
 Perhaps need configurable template for cookbook creation options.  Ticket open on Berkshelf right now.  Should have templates in git to control berkshelf generate behaviour.  Person in Oregon will hopefully right this.
 
-
-
-
+What about Windows support?  Mischa T. will help spearhead this.  Have more issues with Test Kitchen and Vagrant than with Berkshelf on Windows.
