@@ -106,10 +106,10 @@ SUSE added patch to Crowbar 1 so you can see Chef run output graphically
 
 Bulk Edit area - holding pen for new nodes.  Can be used to dump new configurations.
 
-If you take any box, custom hardware, are there any caveats?  No if the box supports IPMI.  Better if box support WSMAN.  Will work on nearly all gear.  (Can work on non-IPMI boxes sometimes - will back off to ACPI)
+If you take any box, custom hardware, are there any caveats?  No if the box supports IPMI.  Better if box support WSMan.  Will work on nearly all gear.  (Can work on non-IPMI boxes sometimes - will back off to ACPI)
 
 UEFI support is in
 
-Is there any concept of deploying grouping of boxes, say a cluster of nodes without doing each box individually?  Swift is a good example of that - proxy nodes vs. storage nodes, plus storage nodes have roles.  Can assign roles to whatever number of servers you want.  Takes a software/service-first mentality.
+Is there any concept of deploying grouping of boxes, say a cluster of nodes without doing each box individually?  Swift is a good example of that - proxy nodes vs. storage nodes, plus storage nodes have roles.  Can assign roles to whatever number of servers you want.  Takes a software/service-first mentality.  Don't have to build a node all at once - can build it gradually.
 
 ## What will we do now?  What needs to happen next?
