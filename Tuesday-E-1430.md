@@ -81,8 +81,21 @@ http://devopsanywhere.blogspot.com/2012/11/editing-chef-resources.html
 
 Sometimes it's just a matter of specifying local defaults rather than redefining the cookbooks
 
+## Eclipse/IntelliJ integration - Oliver Ferrini
+
+Created plugin for Eclipse to integrate chef-client.  Would like to know who uses an IDE on a regular basis.
+
+Want to give unified user experience in your IDE of choice.
+
+Brian has voted to get IntelliJ to add Chef support to RubyMine - getting highly up-voted.
+
+Could package IntelliJ Community Edition with a Chef plugin and call it ChefMine (similar to goido)
+
+Puppet's Gipetto
 
 
 ## What will we do now?  What needs to happen next?
 
 Meet in quiet room after this session to work on the DevKit manifesto.  Want to flesh out the manifesto and assign product owners
+
+Assign 
