@@ -89,9 +89,9 @@ Want to give unified user experience in your IDE of choice.
 
 Brian has voted to get IntelliJ to add Chef support to RubyMine - getting highly up-voted.
 
-Could package IntelliJ Community Edition with a Chef plugin and call it ChefMine (similar to goido)
+Could package IntelliJ Community Edition with a Chef plugin and call it ChefMine, similar to [goide](http://go-ide.com/2011/08/09/goide_release_1_0_darwin.html)
 
-Puppet's Gipetto
+[Puppet Geppetto](http://puppetlabs.com/blog/geppetto-a-puppet-ide)
 
 
 ## What will we do now?  What needs to happen next?
