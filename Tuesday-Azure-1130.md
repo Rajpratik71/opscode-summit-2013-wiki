@@ -3,9 +3,9 @@ What's Up with Berkshelf 3?
 
 ## Conveners
 
-[Michael Ivey](https://twitter.com/ivey)
-[Jamie Winsor](https://twitter.com/resetexistence)
-[Seth Vargo](https://twitter.com/sethvargo)
+* [Michael Ivey](https://twitter.com/ivey)
+* [Jamie Winsor](https://twitter.com/resetexistence)
+* [Seth Vargo](https://twitter.com/sethvargo)
 
 ## Summary of Discussions 
 
