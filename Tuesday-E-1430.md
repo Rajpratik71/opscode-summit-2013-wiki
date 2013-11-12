@@ -19,6 +19,10 @@ There's a whole mess of tools and it's hard for people who are new to Chef (or i
 
 Problem hasn't been solved because people skip straight to implementation (wrapped in an MSI installer, utensils omnibus, etc.)
 
-Would not to 
+Would like to create a manifesto at a high level on what a Chef development environment should look like.  Want to define some specs for a Chef DevKit, define them and let it evolve.
+
+Start of the manifesto:
+
+ 
 
 ## What will we do now?  What needs to happen next?
