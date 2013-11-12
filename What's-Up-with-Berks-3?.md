@@ -78,3 +78,7 @@ Should never have a request for nested Berksfiles again.
 
 Without a dynamic cache builder, could generate a static file with a post commit latch.
 
+Heroku could be used.
+
+Declaration from Adam - we'll ship the api server in with Chef Server - so it will be done!
+
