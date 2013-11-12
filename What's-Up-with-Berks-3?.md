@@ -46,3 +46,8 @@ What about Ruby autoloading?  Would like to use it.  Autoload if you define a co
 We understand the performance issues with people running Berkshelf every day.  Multiple seconds to load the app is unacceptable.  Want to improve in Berkshelf 3.
 
 And of course, will focus on overall bug fixes and improve error messages (stack traces/thread overflow from celluloid is unacceptable).  Don't expose to users.  For example, now you get a stack trace that the actor crashed when the chef server is unavailable.
+
+Don't have release date yet.  You can use it now.  Jamie uses in it production everyday.
+Can use "gem berkshelf install --pre", but suggest using master branch
+
+Will post instructions on how to use Berkshelf 3
