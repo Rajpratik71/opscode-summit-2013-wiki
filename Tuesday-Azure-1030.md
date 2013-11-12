@@ -60,7 +60,7 @@ github.com/crowbar
 
 Barclamp
 
-Whole lotaa Chef and some bash
+Whole lotta Chef and some bash
 
 barclamp-dell_raid
 
@@ -84,11 +84,11 @@ Discovery image - sledgehammer
 
 Pulls down image
 
-Dev has commands on
+Dev has commands to customize OS image among other things
 
 Does it do Windows?  No, but deploying OpenStack with Hyper-V
 
-Automatically deploys Ganglia
+Automatically deploys Ganglia and some other tools.
 
 Does it scale?  Crowbar backs off when you try to scale horizontally
 
