@@ -1,4 +1,4 @@
-Session Title
+OpenSource / Pushy
 =============
 
 ## Convener
