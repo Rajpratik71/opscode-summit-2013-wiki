@@ -28,11 +28,18 @@ Start of the manifesto:
 * Should cover everything prior to code commit (workstation)
 * Should be packaged
 * Should come packaged with testing tools
-* Should prescribe workflow
+* Should proscribe workflow
+* Should evolve
+* Should work behind corporate proxies
+* Should be defined by the community
+* Should dovetail with the work being done on the Cookbook Style Guide
 
-Owners should be both in and outside Opscode - don't want a repeat of having the Opscode-recommended workflow that got blow of the water by Berkshelf/Jamie Winsor of Riot Games.
+Owners should be both in and outside Opscode - history has shown that the Opscode-recommended workflow got blow of the water by Berkshelf/Jamie Winsor of Riot Games.  Community-defined standards are better than the organized-proscribed ones
 
 Stop leaving Windows out in the cold
 
+Ansible is kicking Opscode's ass on getting set up quickly.  We can do better and be even easier to set up.
+
+Tools shouldn't fall down if you have a f*cked up firewalled environment with no access to the community cookbooks.
 
 ## What will we do now?  What needs to happen next?
