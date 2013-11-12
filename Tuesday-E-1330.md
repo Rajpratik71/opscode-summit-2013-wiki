@@ -45,7 +45,7 @@ Currently uses `chef-solo` under the hood.  Will change in ChefSpec 4 to use `ch
 Primary goal of ChefSpec 4 - provide integration level matching
 Test kitchen runner will be more like ChefSpec at a higher level
 
-ChefSpec 3 supports Windows.
+ChefSpec 3 supports Windows (for example, Windows doesn't have curl, so something else is needed)
 
 Questions
 =========
@@ -61,6 +61,8 @@ Testing an LWRP?  How do you do it on the unit level?  Nested cookbook with stup
 Do you have access to the cookbook path?  Seems hard to manage.  LWRPs are hard because of the way that they are dynamically instantiated in Chef.  If you dynamically create cookbooks it's hard to figure out where it fails - then you start commenting out tests to find out what is broken.
 
 Should I wait for ChefSpec 4 to come out before starting to use ChefSpec?  ChefSpec 3 is super-stable, so it is definitely worth looking at.  ChefSpec 2 is not, so avoid that one (if you aren't using Chef 11).
+
+What about code coverage?  Simplecov & Rcov won't work because Chef force reloads constants, which breaks all current code coverage tools.  Can't even parse YAST tree.  Worse in LWRP.  Not easy to do code coverage in Chef unit tests, even though it would be good to know how much of your cookbook is tested.
 
 
 ## What will we do now?  What needs to happen next?
