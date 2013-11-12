@@ -2,7 +2,7 @@ Chef and security
 =============
 
 ## Convener
-Ilya Fomin
+[Ilya Fomin](https://twitter.com/little_beat)
 ## Participants
 Sean Nolen
 Noah Kantrowitz
