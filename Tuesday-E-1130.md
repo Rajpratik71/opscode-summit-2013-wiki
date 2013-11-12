@@ -8,6 +8,7 @@ Barry Crist
 Kevin Smith
 , Kevin Knoepp
 , Jim (Thor) West
+, Adam Vinsh
 
 ## Summary of Discussions
 
