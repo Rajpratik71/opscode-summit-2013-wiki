@@ -39,5 +39,10 @@ Might notice commands like "help" and "version" take too long.  Will address per
 
 Use Thor heavily for command line, considering dropping that because it uses reflection at runtime & that's slow.  Considering using Clamp - more object-oriented method and can pass loading options and lazy-load dependencies instead of having one huge Thorfile that is getting hard to maintain - like Ruby's autoload
 
+Now when running "berks help" won't also load the installer.
 
+What about Ruby autoloading?  Would like to use it.  Autoload if you define a constant as a symbol, ruby will search for symbol of that name to require that file to initialize a file.  Long thread on ruby forum that it's not thread safe.  Matz said it was dead in Ruby 3.  That being said Bundler uses autoloading.
 
+We understand the performance issues with people running Berkshelf every day.  Multiple seconds to load the app is unacceptable.  Want to improve in Berkshelf 3.
+
+And of course, will focus on overall bug fixes and improve error messages (stack traces/thread overflow from celluloid is unacceptable).  Don't expose to users.  For example, now you get a stack trace that the actor crashed when the chef server is unavailable.
