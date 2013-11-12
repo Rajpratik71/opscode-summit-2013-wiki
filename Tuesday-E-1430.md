@@ -99,6 +99,7 @@ Could package IntelliJ Community Edition with a Chef plugin and call it ChefMine
 * Resource completion
 * Testing framework (ChefSpec/ChefZero)
 
+Event-based code coverage - resource coverage vs. code coverage (given that code coverage seems hard to do)
 
 ## What will we do now?  What needs to happen next?
 
