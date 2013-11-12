@@ -6,8 +6,8 @@ Barry Crist
 
 ## Participants
 Kevin Smith
-Kevin Knoepp
-Jim (Thor) West
+, Kevin Knoepp
+, Jim (Thor) West
 
 ## Summary of Discussions
 
