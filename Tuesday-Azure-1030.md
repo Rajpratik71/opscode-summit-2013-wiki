@@ -54,7 +54,7 @@ Ironic allocate bare metal
 
 Full control of IPMI - changes IPMI password
 
-UEFI WSMAN new metal standards for configuring BIOS
+UEFI WSMan new metal standards for configuring BIOS
 
 github.com/crowbar
 
@@ -109,5 +109,7 @@ Bulk Edit area - holding pen for new nodes.  Can be used to dump new configurati
 If you take any box, custom hardware, are there any caveats?  No if the box supports IPMI.  Better if box support WSMAN.  Will work on nearly all gear.  (Can work on non-IPMI boxes sometimes - will back off to ACPI)
 
 UEFI support is in
+
+Is there any concept of deploying grouping of boxes, say a cluster of nodes without doing each box individually?  Swift is a good example of that - proxy nodes vs. storage nodes, plus storage nodes have roles.  Can assign roles to whatever number of servers you want.  Takes a software/service-first mentality.
 
 ## What will we do now?  What needs to happen next?
