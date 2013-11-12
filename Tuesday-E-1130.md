@@ -4,6 +4,8 @@ Session Title
 ## Convener
 
 ## Participants
+jim (Thor) West
+, ...
 
 ## Summary of Discussions
 
