@@ -18,7 +18,7 @@
 
 - Write a client-side feature at the hack tomorrow to sanely include cookbooks for a platform.
 
-Proposals 
-- file path attrs more of a social standard
-- cookbook depends conditionals
-- - supports "windows", {depends: blah}
+Proposal:
+- For the in-recipe stuff, file path attributes could become more of an accepted standard.
+- For actual cookbook dependencies, submit a pr introducing conditionals on "supports"
+eg. supports "windows", {depends: blah}
