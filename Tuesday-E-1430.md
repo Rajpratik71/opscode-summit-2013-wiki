@@ -54,8 +54,8 @@ Should we be building tooling on top of Chef on top of this?
 
 Define standard metadata for cookbooks?
 
-
+Is this not the idea of the application cookbook?
 
 ## What will we do now?  What needs to happen next?
 
-Meet in quiet room after this session.  Want to flesh out the manifesto and assign product owners
+Meet in quiet room after this session to work on the DevKit manifesto.  Want to flesh out the manifesto and assign product owners
