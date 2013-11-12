@@ -112,4 +112,6 @@ UEFI support is in
 
 Is there any concept of deploying grouping of boxes, say a cluster of nodes without doing each box individually?  Swift is a good example of that - proxy nodes vs. storage nodes, plus storage nodes have roles.  Can assign roles to whatever number of servers you want.  Takes a software/service-first mentality.  Don't have to build a node all at once - can build it gradually.
 
+Overlap in work with what the Razor people are doing.  Razor is annoying because they are using Facter.  Sledgehammer - all sledgehammer bits are in the crowbar repo http://github.com/crowbar/crowbar  Don't remember where Sledgehammer actually is because apparently it has moved.  Has chef-client in it plus Dell bits.
+
 ## What will we do now?  What needs to happen next?
