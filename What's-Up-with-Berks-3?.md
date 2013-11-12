@@ -87,7 +87,7 @@ Heroku could be used.
 
 Declaration from Adam - we'll ship the api server in with Chef Server - so it will be done!
 
-Why not have an Erlang API endpoint in the Chef Server?  That's probably what Adam meant.  Don't want to add more Ruby.  (Should have written Berkshelf in Exilir and call it a day).  It will sit in the Chef Server and it will be fine.
+Why not have an Erlang API endpoint in the Chef Server?  That's probably what Adam meant.  Don't want to add more Ruby.  (Should have written Berkshelf in Exilir and called it a day).  It will sit in the Chef Server and it will be fine.
 
 Does this change how I currently use Berkshelf?  No besides needing the API endpoint.
 
