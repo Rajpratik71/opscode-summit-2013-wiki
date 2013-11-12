@@ -35,7 +35,12 @@ Breaking change - render file matcher doesn't exist anymore.  In ChefSpec 2 this
 
 Every resource matcher is now chain able (`with_gid`, `with_owner`, etc.)
 
+Testing LWRPs - documented in README.
+Testing roles - documented in README.
 
+ChefSpec 3 is very extensible now, well-tested, with lots of examples.
+
+Currently uses `chef-solo` under the hood.  Will change in ChefSpec 4 to use `chef-zero`.
 
 
 ## What will we do now?  What needs to happen next?
