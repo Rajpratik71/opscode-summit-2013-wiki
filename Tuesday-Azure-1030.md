@@ -2,7 +2,7 @@ Introduction to Crowbar
 =======================
 
 ## Convener
-Judd (?) - Dell guy
+Judd - Dell guy
 
 ## Participants
 
