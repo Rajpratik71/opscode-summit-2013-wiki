@@ -1,5 +1,5 @@
-Session Title
-=============
+Introduction to Crowbar
+=======================
 
 ## Convener
 
