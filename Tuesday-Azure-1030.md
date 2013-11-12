@@ -54,7 +54,7 @@ Ironic allocate bare metal
 
 Full control of IPMI - changes IPMI password
 
-UFI WSMAN new metal standards for configuring BIOS
+UEFI WSMAN new metal standards for configuring BIOS
 
 github.com/crowbar
 
@@ -107,5 +107,7 @@ SUSE added patch to Crowbar 1 so you can see Chef run output graphically
 Bulk Edit area - holding pen for new nodes.  Can be used to dump new configurations.
 
 If you take any box, custom hardware, are there any caveats?  No if the box supports IPMI.  Better if box support WSMAN.  Will work on nearly all gear.  (Can work on non-IPMI boxes sometimes - will back off to ACPI)
+
+UEFI support is in
 
 ## What will we do now?  What needs to happen next?
