@@ -11,5 +11,8 @@ jim (Thor) west
 
 ## Summary of Discussions
 
-## What will we do now?  What needs to happen next?
+Vagrant and Berkshelf have become the de-facto Chef development workflow, but it is not properly documented.
 
+Plus, getting your Chef Development Workstation environment kinda blows with all these extra tools.
+
+## What will we do now?  What needs to happen next?
