@@ -72,9 +72,14 @@ Split cookbooks like apache into simple and advanced settings?
 
 Chef koans?  Git Real challenges from Code School.  Chef School?
 
-Want to approach at a high level - how do I get a basic LAMP stack setup and deploy an application within it?  ( ( [PuPHPet](https://puphpet.com) or [SoloWizard](http://www.solowizard.com) )
+Want to approach at a high level - how do I get a basic LAMP stack setup and deploy an application within it?  ( [PuPHPet](https://puphpet.com) or [SoloWizard](http://www.solowizard.com)
 
 Besides Opscode most people don't care about having a cookbook that works on a zillion different platforms - just care about one.  Also only care about problems of their business, not problems of Chef.
+
+[chef-rewind](https://github.com/bryanwb/chef-rewind) for modifying community cookbooks
+http://devopsanywhere.blogspot.com/2012/11/editing-chef-resources.html
+
+Sometimes it's just a matter of specifying local defaults rather than redefining the cookbooks
 
 
 
