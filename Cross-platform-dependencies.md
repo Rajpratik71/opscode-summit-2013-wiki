@@ -1,6 +1,6 @@
 ### (Potential) Issues that came up.
 
-- Can makes cookbooks fragiles
+- Including non-essential cookbooks can make render the run fragile
 
 - Test coverage increases exponentially
 
