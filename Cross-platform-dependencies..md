@@ -22,3 +22,4 @@ Proposals
 - recipe level dependencies?
 - lazy load recipes
 - add supports syntax map
+- - supports "windows", {depends: blah}
