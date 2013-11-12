@@ -2,15 +2,15 @@ Opscode Open Source Strategy and Pushy
 =============
 
 ## Convener
-Barry Crist
+[Barry Crist](https://twitter.com/barry_crist)
 
 ## Participants
-Kevin Smith  
-Kevin Knoepp  
+[Kevin Smith](https://twitter.com/kevsmith)
+[Kevin Knoepp](https://twitter.com/kevinknoepp)
 Jim (Thor) West  
-Adam Vinsh  
-Jeffrey Hulten  
-Adam Jacob  
+[Adam Vinsh](https://twitter.com/adamvinsh)
+[Jeffrey Hulten](https://twitter.com/jhulten)
+[Adam Jacob](https://twitter.com/adamhjk)
 
 ## Summary of Discussions
 
