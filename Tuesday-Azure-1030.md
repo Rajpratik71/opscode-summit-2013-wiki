@@ -114,4 +114,6 @@ Is there any concept of deploying grouping of boxes, say a cluster of nodes with
 
 Overlap in work with what the Razor people are doing.  Razor is annoying because they are using Facter.  Sledgehammer - all sledgehammer bits are in the crowbar repo http://github.com/crowbar/crowbar  Don't remember where Sledgehammer actually is because apparently it has moved.  Has chef-client in it plus Dell bits.
 
+Is there a pattern to scale the management node?  It's just nginx.  Edit the crowbar barclamp to add a proxy to the nginx node.  Upgrade github repo and pull from source or update package from cache.
+
 ## What will we do now?  What needs to happen next?
