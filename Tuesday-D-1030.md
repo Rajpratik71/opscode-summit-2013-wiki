@@ -23,7 +23,7 @@ Jon Ong
 [Scott Christopherson](https://twitter.com/Scottopherson)  
 [Seth Chisamore](https://twitter.com/schisamo)  
 Sean Horn   
-Cary Penniman  
+[Cary Penniman](https://twitter.com/kindsol)  
 lots more...  
 
 ## Summary of Discussions
