@@ -5,7 +5,7 @@ Cookbook / ICLA Site
 Bryan McLellan
 
 ## Participants
-Seth Vargo
+Seth Vargo </br>
 jim (Thor) west
 ...
 
