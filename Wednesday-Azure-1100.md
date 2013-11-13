@@ -3,7 +3,7 @@ Continuous Integration/Continuous Delivery
 
 ## Convener
 
-Chris Wing
+Chris Wing @Yahoo
 
 ## Participants
 jim (Thor) west
