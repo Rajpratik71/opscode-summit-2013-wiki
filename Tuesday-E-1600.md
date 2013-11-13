@@ -37,4 +37,6 @@ Spent more time working with the Docker driver if you are using Debian or Ubuntu
 
 Docker with an http cache makes Test Kitchen usable on cafe wifi
 
+Possibly need to work out issues with Chef Zero and using older versions of Chef.
+
 ## What will we do now?  What needs to happen next?
