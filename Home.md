@@ -57,7 +57,7 @@ Seattle, Washington 98101
 
 | Time | D | E | Azure | Cobalt | Cyan | Steel A |
 |------|---|---|-------|--------|------|---------|
-| 1000 |   |   | [Chef 12 Features](https://github.com/opscode/opscode-summit-2013/wiki/Tuesday-Azure-1000)      |    [Cleaning Unused Resources Zap::](https://github.com/opscode/opscode-summit-2013/wiki/Tuesday-Colbalt-100)    |      |         |
+| 1000 |   |   | [Chef 12 Features](https://github.com/opscode/opscode-summit-2013/wiki/Tuesday-Azure-1000)      |    [Cleaning Unused Resources Zap::](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Colbalt-100)    |      |         |
 | 1100 |   |   |       |        |      |         |
 | 1200 | Lunch | Lunch | Lunch | Lunch | Lunch | Lunch |
 | 1300 |   |   |       |        |      |         |
