@@ -137,5 +137,8 @@ Serverspec is acceptance testing portion of Vagabond
      it{ should be_listening }
    end
 
-`spec` block defines what we're doing - stuff to test clusters is kinda working
+`spec` block defines what we're doing - stuff to test clusters is kinda working.  End goal is to be able to properly mock everything in infrastructure.  Still need to finish.
+
+Callbacks are supported - create, destroy, provision, whatever
+
 ## What will we do now?  What needs to happen next?
