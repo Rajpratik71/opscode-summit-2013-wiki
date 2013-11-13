@@ -147,4 +147,21 @@ Can use it now!
 
 What about a template closer to my own environment?  The LXC container resource in the cookbook will let you do whatever you want, but I argue that you should provision that base to your final endpoint and don't change the base image - don't make assumptions that certain things are going to be there
 
+Could use LXC cookbook to provision the host - to ensure things like wget or curl on the template
+
+It actually downloads curl to install erchef
+
+Example command to install Chef 10
+
+    templates do
+      ubuntu_1204_chef_10_26_0 do
+        base 'ubuntu_1204'
+        configuration do
+          initialize_commands [
+            'curl -# -L http://www.opscode.com/chef/install.sh | sudo bash -s -- -v 10.26.0'
+          ]
+        end
+      end
+    end
+
 ## What will we do now?  What needs to happen next?
