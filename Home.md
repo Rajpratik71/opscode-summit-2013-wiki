@@ -23,8 +23,9 @@ Seattle, Washington 98101
 * 12:30pm Lunch - Sponsored by IBM
 * 1:30pm Open Spaces - Session 3
 * 2:30pm Open Spaces - Session 4
-* 3:30pm Open Spaces - Session 5
-* 4:30pm Evening News
+* 3:30pm Break
+* 4:00pm Open Spaces - Session 5
+* 5:00pm Evening News
 * 6:00pm Happy Hour @ [Tom Douglas's Palace Ballroom](https://maps.google.com/maps?saddr=Hyatt+at+Olive+8,+8th+Avenue,+Seattle,+WA&daddr=Palace+Ballroom&hl=en&ll=47.614141,-122.336969&spn=0.006676,0.008808&sll=47.615106,-122.336968&sspn=0.006675,0.008808&geocode=FdWG1gIdYlW1-CFzBLU7QqVs4ynhuE40tWqQVDFzBLU7QqVs4w%3BFVyL1gIdzDu1-A&oq=Hyatt&dirflg=w&mra=ltm&t=m&z=17)
 * 7:00pm Ignite Chef Community!
 
