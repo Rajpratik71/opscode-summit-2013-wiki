@@ -23,6 +23,8 @@ What form is the documentation going to take?  Readme/wiki?  Do you need help?  
 
 The Test Kitchen repos are going to be split into it's own Github community.  All the drivers and gems will all be in one place.  Similar to Guard or Jenkins community.  (Also a Berkshelf organization).
 
+Don't wait on the 1.0 release to start looking at it.  It won't change very much before release.  There's been some minor gem dependency issues (celluloid).
 
+Opscode is moving away from Bats in Test Kitchen.  Standardizing on ServerSpec for integration testing (because engineering team uses RSpec).
 
 ## What will we do now?  What needs to happen next?
