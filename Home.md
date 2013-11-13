@@ -61,4 +61,4 @@ Seattle, Washington 98101
 | 1100 |   |   | [Continuous Integration/Continuous Delivery](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1100)      |        |      | [Revisiting Search](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-SteelA-1100)     |
 | 1200 | Lunch | Lunch | Lunch | Lunch | Lunch | Lunch |
 | 1300 |   |   | [Multi-node testing & Vagabond](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1300)      |        |      |         |
-| 1400 |   |   |       |        |      |         |
+| 1400 |   |   | [TBD](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1400)      |        |      |         |
