@@ -37,6 +37,7 @@ Seattle, Washington 98101
 | 1230 | Lunch | Lunch | Lunch | Lunch |   Lunch   | Lunch |
 | 1330 | Post deployment verification | Chef Training | [ChefSpec 3](wiki/Tuesday-E-1330) | Wrapping chef-client in erlang | [Chef and Security](https://github.com/opscode/opscode-summit-2013/wiki/Tuesday-Cyan-1330) | Attribute validation |
 | 1430 | Cookbook Libraries as gems | Chef metrics and monitoring | [Chef Development Toolsets](wiki/Tuesday-E-1430) | Server conversion to Chef | Openstack | Celluloid (is it good?) |
+| 1530 | Break | Break | Break | Break | Break | Break |
 | 1600 | Service discovery and Orchestration |  | [Test kitchen - a discussion](wiki/Tuesday-E-1600) | Chef 12, Version all the things |  | Private/Enterprise chef support group |
 
 ### Wednesday, November 13
