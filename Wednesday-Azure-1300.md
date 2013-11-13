@@ -37,7 +37,7 @@ After this initial slow run, everything else is really fast - all ephemeral node
 
 Two ways to run Chef Server with vagabond:
 1) Erchef - Template with erchef to generate instances
-
+2) Cher Zero - Better for low resource environments (erchef can be heavy)
 
 ## Summary of Discussions
 
