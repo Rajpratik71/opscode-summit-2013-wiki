@@ -72,3 +72,7 @@ Policy enforcement to pin all cookbook versions, block all cookbooks not listed 
 Freezing cookbooks by default? Force-freezing of everything could be a feature for config of the Chef server.
 
 Garbage collection of old revisions by policy would be nice, remove unused old artifacts.
+
+Platform specific dependencies in metadata for cookbooks.
+
+Honor 'provides' from cookbook metadata for dependencies.
