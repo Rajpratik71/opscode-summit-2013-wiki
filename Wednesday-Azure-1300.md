@@ -109,4 +109,8 @@ Is there any advantage to using Docker?  Well it would be slower.
 
 Can only run on Ubuntu/Debian, no LXC support in CentOS - Docker might be able to provide more support there, but I want to access LXC directly.
 
+Philosophy is that you build chef from scratch then build node out
+
+Based on LXC cookbook.  All structures used to build LXC containers can be specified in the Vagabondfile
+
 ## What will we do now?  What needs to happen next?
