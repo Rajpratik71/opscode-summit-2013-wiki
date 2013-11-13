@@ -175,3 +175,5 @@ Can set wait condition when things are finished when things are run in parallel?
 Get Spec stuff finished
 
 Get it to run against EC2, CloudStack, etc. instead of just LXC.  Use drivers from Test Kitchen (Sean Porter).  Make interface for Test Kitchen drivers to support this.
+
+Look at making it also a small little daemon so the ruby bits always stay in memory and be faster - goal is to make it much faster - look at all the ways to make it go faster.
