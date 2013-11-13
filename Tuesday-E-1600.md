@@ -61,4 +61,6 @@ First time Test Kitchen - difference between `kitchen converge`, `kitchen test`,
 
 How does Test Kitchen know about dependent cookbooks?  What if A calls B, how does Test Kitchen know about that?  Test Kitchen is Berksfile aware - it will haul stuff in.  Test Kitchen abuses Berkshelf in that it just uses the dependency resolver to copy cookbooks in via scp.
 
+What about using Test Kitchen to test post-deploy?  I'd rather write one set of tests with Test Kitchen?  The Opscode consulting team is experimenting with this with a proxy driver.  This is where it is handy to use Serverspec as you could tell it to run in different places.  Cookbook tests tend to translate pretty well to post deployment monitoring tests (like flapjack cucumber).  Jamie is also using Elixir runners as performance tests as well.
+
 ## What will we do now?  What needs to happen next?
