@@ -36,6 +36,10 @@ Would like to definite two or three standard pipelines for all kinds of software
 
 Why do I need to Chef the build system?  After yet another upgrade the JIRA system, the thing went down for an hour and nobody could use it.  If I don't put my build system through the same kind of discipline as the rest of the production system, I'm setting my company up for failure.
 
+Build jobs should not codify the pipeline.  Instead the CI/CD system codifies the pipeline.
+
+In the tool writing at Opscode, build scripts live in source control, scripts don't live in central server
+
 
 
 ## What will we do now?  What needs to happen next?
