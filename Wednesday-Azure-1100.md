@@ -18,6 +18,7 @@ HP Cloud - OpenStack using Gerrit latch with Jenkins Job Builder plus JIRA track
 Artifact pointers to cookbooks - everything versioned in Git and tagged with Git (need versioned data bags)
 
 [Jenkins Job Builder](http://ci.openstack.org/jenkins-job-builder/)
+Has dry run mode to test XML job that can be used before deploy
 
 http://ci.openstack.org also good resource
 
