@@ -83,6 +83,12 @@ Adds extra things to host node - an app cacher to build things locally
 
 Can you interact with knife using vagabond?
 
-`
+Knife passthrough with vagabond - `./bin/vagabond knife cookbook list` - example
+`./bin/vagabond knife node list`
+
+End up building nodes then tearing them down again a lot.
+`./bin/vagabond rebuild cacher`
+
+Can do the same with clusters - goes through nodes serially in an array
 
 ## What will we do now?  What needs to happen next?
