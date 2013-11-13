@@ -172,6 +172,9 @@ Can set wait condition when things are finished when things are run in parallel?
 
 LXC has a bunch of restrictions on it through cgroups and apparmor, so you can't run cgroups within lxc.  Someone created a nice apparmor template to run cgroups within lxc.  This will be added to the lxc cookbook as an optional parameter.
 
+Love the pure Ruby DSL.
+
+
 ## What will we do now?  What needs to happen next?
 
 Get Spec stuff finished
