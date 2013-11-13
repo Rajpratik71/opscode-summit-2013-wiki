@@ -53,4 +53,8 @@ How do you run the same runlist against different drivers - right now use enviro
 
 What about multiple BM Test Kitchen runs?  There is Vagabond with LXC.  Might be easy to add suite dependencies and run erchef on the host to run the suite.  (Fletcher is groaning).
 
+Jon Kaiser who did Chef Zero is developing an abstraction of an instance running a thing for testing enterprise Chef topologies (chef-restuarant).
+
+Test Kitchen isn't trying to solve the test dependency problem.  Vagabond isn't a good solution outside the Linux world.  Possible to use Test Kitchen as a Ruby library (not too much code and is structured in a way so that's possible - was working work Stephen Nelson-Smith to using test instances and drivers this way to describe how to create nodes and wire them together - test kitchen can be plumbing - and it worked pretty well).  You can also override the data loader if you don't like YAML, for example.  Played with Sean to override stuff in Ruby code rather than Gem/YAML.  Test Kitchen doesn't have the mechanics to know which node comes up first, though.   Was intended to test a single cookbook standalone.  chef-solo can have a nodes directory with IP addresses to fake it out.  Not really intended for cluster testing yet.
+
 ## What will we do now?  What needs to happen next?
