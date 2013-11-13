@@ -141,4 +141,10 @@ Serverspec is acceptance testing portion of Vagabond
 
 Callbacks are supported - create, destroy, provision, whatever
 
+Destroy good stand-in for garbage collection of nodes
+
+Can use it now!
+
+What about a template closer to my own environment?  The LXC container resource in the cookbook will let you do whatever you want, but I argue that you should provision that base to your final endpoint and don't change the base image - don't make assumptions that certain things are going to be there
+
 ## What will we do now?  What needs to happen next?
