@@ -2,19 +2,19 @@ Making Chef on Windows Better
 =============
 
 ## Convener(s)
-Kristian Vlaaderingbroek (Schuberg Philis)
-Garrick Olson (Pariveda Solutions)
+Kristian Vlaadingerbroek (Schuberg Philis)  
+Garrick Olson (Pariveda Solutions)  
 
 ## Participants -- please add yourself!
-Jeff Mendoza (Microsoft Open Tech)
-Julian Dunn (Opscode)
-Alex Vinyar (Opscode)
-Makana Greenwell (Opscode)
-Ken Cheney (Opscode)
-Brian Scott (Disney)
-Mark Mzyk (Opscode)
-Jon DeCamp (Nordstrom)
-Jeff Hagadorn (Disney)
+Jeff Mendoza (Microsoft Open Tech)  
+Julian Dunn (Opscode)  
+Alex Vinyar (Opscode)  
+Makana Greenwell (Opscode)  
+Ken Cheney (Opscode)  
+Brian Scott (Disney)  
+Mark Mzyk (Opscode)  
+Jon DeCamp (Nordstrom)  
+Jeff Hagadorn (Disney)  
 
 ## Summary of Discussions
 
@@ -86,7 +86,6 @@ Jeff Hagadorn (Disney)
   * File share management
   * Windows impersonation
   * Powershell DSC
-
 
 ## Your knife Windows workstation config
  
