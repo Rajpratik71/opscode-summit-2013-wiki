@@ -7,6 +7,10 @@ Chris
 
 ## Participants
 
+## Summary of Discussions
+
+https://github.com/chrisroberts/vagabond
+
 Frustration with working with Chef servers very far away
 
 Tried using vagrant at first working locally
@@ -62,7 +66,8 @@ Vagabond file can be straight ruby hash - straight DSL to build Ruby hashes
 
 Can specify a bunch of defaults, then override in other configs
 
+We can do anything we can do with LXC - freeze nodes in a particular state, then thaw it out vs. needing to build stuff up then tear it back down.
 
-## Summary of Discussions
+Node is namespaces differently.
 
 ## What will we do now?  What needs to happen next?
