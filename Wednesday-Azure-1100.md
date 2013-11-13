@@ -1,5 +1,5 @@
-Session Title
-=============
+Continuous Integration/Continuous Delivery
+==========================================
 
 ## Convener
 
