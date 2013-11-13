@@ -40,6 +40,22 @@ Build jobs should not codify the pipeline.  Instead the CI/CD system codifies th
 
 In the tool writing at Opscode, build scripts live in source control, scripts don't live in central server
 
+Been working on this project for two months at Opscode.  Would like it to be available next August.
+
+Assumes that Pushy is a great job description framework
+
+Is very prescriptive about the pipeline
+
+Specify build cookbook that maps to each of the phases, then run the build
+
+What if I need to run on three different environments, parallel provision them as quickly as possible?  There is a provision phase.  It is constrained in what those environments are.  There are four different environments.  But in that you can define what you want to accept in the environment.
+
+Build cookbooks are the language of the build.  What if you could write a cookbook to define a Java build?  We've proven if we can do that?
+
+Intention is that this defines how you define software development and backing the community site.
+
+How do you help you along the way?  We need to work that out?
+
 
 
 ## What will we do now?  What needs to happen next?
