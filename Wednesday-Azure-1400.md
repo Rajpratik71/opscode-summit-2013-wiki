@@ -72,6 +72,10 @@ How do I test the build system before it goes the prod?  I need an offline syste
 
 Have two Jenkins servers for SOX compliance - one to push to production and another for everything else.  Need to be kept in sync with each other somehow.
 
+Google has open-sourced a nice pipeline in Chromium which can be used as a building block: http://www.chromium.org/developers/testing/chromium-build-infrastructure/tour-of-the-chromium-buildbot
+
+But it's not Jenkins is in Python and the community isn't as large
+
 ## What will we do now?  What needs to happen next?
 
 Go back to Opscode to provide a build service for the community to collectively improve
