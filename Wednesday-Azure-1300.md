@@ -72,11 +72,17 @@ Node is namespaces differently.
 
 Very fast
 
-`vagabond up`
-`vagabond up cacher`
+`./bin/vagabond up`
+`./bin/vagabond up cacher`
 
 Idea is to get things up faster to get things working
 
 With testing cookbooks it can be different to talk to other things.  Hard to configure `Vagrantfile` to configure multiple nodes.
+
+Adds extra things to host node - an app cacher to build things locally
+
+Can you interact with knife using vagabond?
+
+`
 
 ## What will we do now?  What needs to happen next?
