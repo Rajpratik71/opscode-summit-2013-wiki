@@ -2,7 +2,7 @@ Making Chef on Windows Better
 =============
 
 ## Convener(s)
-Kristian Vlaadingerbroek (Schuberg Philis)  
+Kristian Vlaardingerbroek (Schuberg Philis)  
 Garrick Olson (Pariveda Solutions)  
 
 ## Participants -- please add yourself!
