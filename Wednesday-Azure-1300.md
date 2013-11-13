@@ -58,6 +58,11 @@ Two ways to run Chef Server with vagabond:
 
 Support for librarian & berkshelf
 
+Vagabond file can be straight ruby hash - straight DSL to build Ruby hashes
+
+Can specify a bunch of defaults, then override in other configs
+
+
 ## Summary of Discussions
 
 ## What will we do now?  What needs to happen next?
