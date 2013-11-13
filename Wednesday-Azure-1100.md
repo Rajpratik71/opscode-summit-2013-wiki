@@ -46,4 +46,6 @@ What about emergency patches?  External updates?  External updates should be jus
 
 [fpm](https://github.com/jordansissel/fpm) - used to bundle gems as an rpm - love fpm, great for debian
 
+What to push the infrastructure itself through the CD system - recursively use the CD system to deploy the CD system.
+
 ## What will we do now?  What needs to happen next?
