@@ -3,8 +3,8 @@ Chef 12 Features
 
 Chef 12 Feature discussion
 
-https://wiki.opscode.com/display/chef/Suggestions+for+2013+Community+Summit
-wiki.opscode.com / community summit page
+Listed on community summit page
+https://wiki.opscode.com/display/chef/Suggestions+for+2013+Community+Summit  
 
 Ruby 2.0 Support / Omnibus with Ruby 2.0
 
