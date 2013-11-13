@@ -21,6 +21,9 @@ Doug Ireton
 * knife-cloud plugin refractors
 * CHEF-2913 track changes to an attribute for debugging purposes
 * version objects (roles, data bags)
+* semver support for cookbook versions
+* API generated audit trail
+* omnibus packages hosted by chef server (omnitruck? Bootstrapper?)
 
 ## What will we do now?  What needs to happen next?
 
