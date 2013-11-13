@@ -72,4 +72,11 @@ Node is namespaces differently.
 
 Very fast
 
+`vagabond up`
+`vagabond up cacher`
+
+Idea is to get things up faster to get things working
+
+With testing cookbooks it can be different to talk to other things.  Hard to configure `Vagrantfile` to configure multiple nodes.
+
 ## What will we do now?  What needs to happen next?
