@@ -88,6 +88,12 @@ Write Jenkins plugin for Chef to tide us through until this thing is ready from 
 [Janitor Monkey](http://techblog.netflix.com/2013/01/janitor-monkey-keeping-cloud-tidy-and.html) - Cleans up unused EC2 cloud instances
 Part of [Simian Army](https://github.com/Netflix/simianarmy)
 
+[pants](https://github.com/twitter/commons/blob/master/pants)
+
+[Jenkins Job Configuration History Plugin](https://wiki.jenkins-ci.org/display/JENKINS/JobConfigHistory+Plugin)
+[SCM Sync Configuration Plugin](https://wiki.jenkins-ci.org/display/JENKINS/SCM+Sync+configuration+plugin)
+
+
 ## What will we do now?  What needs to happen next?
 
 Go back to Opscode to provide a build service for the community to collectively improve
