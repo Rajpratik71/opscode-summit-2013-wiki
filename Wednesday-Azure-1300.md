@@ -91,4 +91,22 @@ End up building nodes then tearing them down again a lot.
 
 Can do the same with clusters - goes through nodes serially in an array
 
+Any way to build nodes in parallel?  Yes
+
+Do you have to set a specific flag to build in parallel?  Yes `--parallel` flag, then it does everything in parallel
+
+(Similar to vagrant)
+
+`./bin/vagabond ssh cacher`
+
+Minimalist for building nodes - nothing on them.  No users, you are root and that's what you get
+
+Can send commands through as well
+
+`./bin/vagabond ssh cacher 'ps -AH ux'`
+
+Is there any advantage to using Docker?  Well it would be slower.
+
+Can only run on Ubuntu/Debian, no LXC support in CentOS - Docker might be able to provide more support there, but I want to access LXC directly.
+
 ## What will we do now?  What needs to happen next?
