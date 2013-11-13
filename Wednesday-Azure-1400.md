@@ -30,6 +30,7 @@ Documentation
 
 Promotion rules - QA team cutting release, manual steps for ops team to deploy.
 
+Went down Jenkins route - bolting the CD concept on existing CI systems is a common approach, but doesn't work.  Death to Jenkins!  Think of systems as end-to-end pipelines.  Build + Deployment, not just build.
 
 
 ## What will we do now?  What needs to happen next?
