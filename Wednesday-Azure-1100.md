@@ -34,4 +34,14 @@ Alternative to Jenkins?  [Thoughtworks Go](http://www.thoughtworks.com/products/
 
 Need DSL for build pipelines.  Cookbook promotions, artifact management.
 
+State of Jenkins cookbook?  Ability to define pipeline?
+
+What about running Jenkins on developer workstations?  Use buildbot - Chromium team has open sourced a bunch of things to support this workflow, developers run this on their machine: http://www.chromium.org/developers/testing/chromium-build-infrastructure/tour-of-the-chromium-buildbot
+
+Manual quality gate or marketing gate still a problem.
+
+JCloud plugin for Jenkins - should support hot slaves in the cloud -not ready for prime time
+
+
+
 ## What will we do now?  What needs to happen next?
