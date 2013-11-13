@@ -33,4 +33,4 @@ Opscode does not want to tackle tools that manage network or storage
 
 Database agnostic - tied to Postgres?  Tried this with hosted in Percona build of MySQL - didn't work with a database abstraction.  Don't want to waste time doing workarounds with MySQL - also not going back to CouchDB ;-)
 
-
+Better support for node attribute debugging in [CHEF-2913](https://tickets.opscode.com/browse/CHEF-2913) - Provide tracing of attribute changes at runtime
