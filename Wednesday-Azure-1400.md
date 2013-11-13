@@ -93,6 +93,7 @@ Part of [Simian Army](https://github.com/Netflix/simianarmy)
 [Jenkins Job Configuration History Plugin](https://wiki.jenkins-ci.org/display/JENKINS/JobConfigHistory+Plugin)
 [SCM Sync Configuration Plugin](https://wiki.jenkins-ci.org/display/JENKINS/SCM+Sync+configuration+plugin)
 
+[Jenkins Job Builder](http://ci.openstack.org/jenkins-job-builder/)
 
 ## What will we do now?  What needs to happen next?
 
