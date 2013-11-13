@@ -17,6 +17,8 @@ When is 1.0 coming out?  It could have been shipped 8 months ago.  Not a lot has
 
 Need to fix Chef Zero provisioner - Test Kitchen doesn't know it is available to it yet
 
-Opscode merged a bunch of work to make Test Kitchen work better with non-Unix Linux to work better with bourne shell.  Using Test Kitchen to Juniper test network switches (JunOS is transactional).
+Opscode merged a bunch of work to make Test Kitchen work better with non-Unix Linux to work better with bourne shell.  Using Test Kitchen to Juniper test network switches (JunOS is transactional).  Will allow us to test against some old Sparc Slaves.  Now we can use Test Kitchen for nearly everything internal to Opscode.
+
+
 
 ## What will we do now?  What needs to happen next?
