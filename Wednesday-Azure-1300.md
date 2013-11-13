@@ -117,6 +117,10 @@ No image shipping
 
 Possible advantage to Docker, would build outside your workstation on structure - but basically re-building vagrant at that point
 
+Do I need an external tool to validate the cluster?  Vagabond integrates with Test Kitchen and adds extra support for clusters to Test Kitchen
+
+Did youtube video with Matt Ray on how this works
+http://www.youtube.com/watch?v=FuarlNKs_FY&noredirect=1
 
 
 ## What will we do now?  What needs to happen next?
