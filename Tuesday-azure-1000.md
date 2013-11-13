@@ -66,3 +66,17 @@ The run action must die - Sean O'Meara.  Number one thing that comes up on the m
 Speaking of convergence, `error 412 precondition failed` should tell which cookbook(s) it failed on.  Right now you have to log into the server and dig into the stack trace.  Depsolver should at least add conflict resolution.
 
 Recipe-level cookbook dependencies.  Getting locked into situations where there are a lot of dependencies when only using small portions of a cookbook.  Right now have to pull down everything.  People struggle with this a lot.  Like why need to download Windows.  And not just at the recipe level.  It's hard because Chef doesn't know what you're going to include.  Most people don't usually notice except when people see Windows - people don't like seeing Windows cookbook on say Solaris box.  Perhaps just move things like Windows support in core Chef so people don't see it.  Also perhaps split up cookbooks.  Don't get too focused on Windows - it's still a problem elsewhere.  Is it a cookbook problem or a chef problem?  For example Apache cookbook does way too much and might be better done in an LWRP.  A failed run blows away all cookbooks from the cache.   It downloads all the cookbooks the next time.
+
+How long do you need to move off Chef 10?  6 months after getting Chef 11 into production.
+
+## Votes on features
+
+* Ruby 2.0 Omnibus - 14
+* Knife Cloud Plugin Refactor - 4
+* Versioned Objects - Everyone
+* Semver Support for Cookbook Versioning - 2
+* API Generated Audit Trail - 10
+* Resources for managing containers - 8
+* Omnitruck/yum/apt repositories - 20
+* Depend on specific cookbook components - 1
+* Do something about JSON - 5
