@@ -131,11 +131,11 @@ Serverspec is acceptance testing portion of Vagabond
 
 `cat recipe/apt/cacher-ng/service.rb`
 
-  require 'spec_helper'
+   require 'spec_helper'
 
-  describe port(3142) do
-    it{ should be_listening }
-  end
+   describe port(3142) do
+     it{ should be_listening }
+   end
 
 `spec` block defines what we're doing - stuff to test clusters is kinda working
 ## What will we do now?  What needs to happen next?
