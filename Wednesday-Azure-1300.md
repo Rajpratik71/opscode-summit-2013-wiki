@@ -170,6 +170,8 @@ Unwittingly used thor for command line, need to switch to mixlibs
 
 Can set wait condition when things are finished when things are run in parallel?  For example, start running cookbooks when node has converged?  The Spec testing will do that - runs everything in parallel to create nodes, waits for that to finish, then runs the tests.
 
+LXC has a bunch of restrictions on it through cgroups and apparmor, so you can't run cgroups within lxc.  Someone created a nice apparmor template to run cgroups within lxc.  This will be added to the lxc cookbook as an optional parameter.
+
 ## What will we do now?  What needs to happen next?
 
 Get Spec stuff finished
@@ -181,3 +183,7 @@ Look at making it also a small little daemon so the ruby bits always stay in mem
 Hope to be able to mix and match EC2, CloudStack, Rackspace nodes together.
 
 Promise to make it more stable so other people can use it.  Problem so far is that it is also being used for Chris's personal development, so it has varied in stability in the past.
+
+Fold in apparmor template to run cgroups within lxc.
+
+Please let Chris Roberts know if you see any issues!
