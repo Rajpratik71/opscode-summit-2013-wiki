@@ -51,4 +51,4 @@ API generated audit trail for changes to the system - who f*cked up production. 
 
 Important to know when someone pushes a cookbook or uses `knife node edit` - who did it - for auditing, so that processes can be put in place to manage.  Right now don't know who changed what.
 
-Different use case for auditing - customers have straight guidelines for change management - ITIL/SA16 - for compliance purposes.
+Different use case for auditing - customers have straight guidelines for change management - ITIL/SA16 - for compliance purposes.  Hook would be perfect for this.  System to Hook into: Tivoli event manager, Logstash, stated.  Need something out of the box.
