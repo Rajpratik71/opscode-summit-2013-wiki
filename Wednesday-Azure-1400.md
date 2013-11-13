@@ -74,7 +74,16 @@ Have two Jenkins servers for SOX compliance - one to push to production and anot
 
 Google has open-sourced a nice pipeline in Chromium which can be used as a building block: http://www.chromium.org/developers/testing/chromium-build-infrastructure/tour-of-the-chromium-buildbot
 
+Buildbot - [CI Is Hard! - Part 1](http://jacobian.org/writing/buildbot/ci-is-hard/)
+[Buildbot Configuration and Architecture - Part 2](http://jacobian.org/writing/buildbot/configuration-and-architecture/)
+
 But it's not Jenkins is in Python and the community isn't as large
+
+Anyone using the community cookbook to manage Jenkins?
+
+Bad cookbook!  Doesn't play nicely with EC2.
+
+Write Jenkins plugin for Chef to tide us through until this thing is ready from Opscode?
 
 ## What will we do now?  What needs to happen next?
 
