@@ -60,9 +60,17 @@ Conversation should be around good standard patterns for CD.  Pretty confident t
 
 Problem discovered so far has been to try to make the pipeline flexible, leads to unexpected complexity.
 
-This product from Opscode will replace Jenkins.
+This product from Opscode will replace Jenkins.  Discovered that existing products don't reason about this properly.
 
+How can you provide that tools like Jenkins are security compliant - that they don't trash productions?  Can't get around the issue that one box is the source of truth, configuring dev, QA and prod, and it lives in prod.
 
+What if I have a production Chef server and a developer Chef server, and never the twain shall meet?  Easier with Enterprise Chef with environments.
+
+In Jenkins each step calls out to a scripts, in the new model store a search string to tell where the job runs and the rest of the build actions are in source control.
+
+How do I test the build system before it goes the prod?  I need an offline system.  It needs to be able to scale out.
+
+Have two Jenkins servers for SOX compliance - one to push to production and another for everything else.  Need to be kept in sync with each other somehow.
 
 ## What will we do now?  What needs to happen next?
 
