@@ -32,6 +32,11 @@ Promotion rules - QA team cutting release, manual steps for ops team to deploy.
 
 Went down Jenkins route - bolting the CD concept on existing CI systems is a common approach, but doesn't work.  Death to Jenkins!  Think of systems as end-to-end pipelines.  Build + Deployment, not just build.
 
+Would like to definite two or three standard pipelines for all kinds of software.
+
+Why do I need to Chef the build system?  After yet another upgrade the JIRA system, the thing went down for an hour and nobody could use it.  If I don't put my build system through the same kind of discipline as the rest of the production system, I'm setting my company up for failure.
+
+
 
 ## What will we do now?  What needs to happen next?
 
