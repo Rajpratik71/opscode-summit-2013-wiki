@@ -95,6 +95,10 @@ Part of [Simian Army](https://github.com/Netflix/simianarmy)
 
 [Jenkins Job Builder](http://ci.openstack.org/jenkins-job-builder/)
 
+Write standalone Ruby tools that plug into Jenkins - use Jenkins as a test driver for scripts
+
+How do you set up a build executor?  Bundle install or Chef executor?  Now we have Chef manage the gems on the build box rather than a bundle install.
+
 ## What will we do now?  What needs to happen next?
 
 Go back to Opscode to provide a build service for the community to collectively improve
