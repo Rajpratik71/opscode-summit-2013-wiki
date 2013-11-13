@@ -43,4 +43,6 @@ Versioned databags
 
 Cluster definitions - add cluster as a first-class data structure (covered by John Kaiser work)
 
-Clean up dynamic use of EC2 nodes used, polluting the Chef server - remove nodes that are no longer provisioned, etc.  Perhaps add TTL field to node.  Right now people need to run cron jobs to clean things up.
+Clean up dynamic use of EC2 nodes used, polluting the Chef server - remove nodes that are no longer provisioned, etc.  Perhaps add TTL field to node.  Right now people need to run cron jobs to clean things up.  Might be a more generic solution around cleaning up old things - like pruning old cookbook versions.  Garbage collection on version policy.
+
+More flexible cookbook versioning, more than x.y.z, perhaps prerelease, rc1, rc2, etc.
