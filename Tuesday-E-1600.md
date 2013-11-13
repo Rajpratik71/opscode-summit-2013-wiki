@@ -35,4 +35,6 @@ After 1.0, want Windows Guest support and multi-provisioner support for Test Kit
 
 Spent more time working with the Docker driver if you are using Debian or Ubuntu.  With Docker you have a golden base, then have snapshots taken all the way.  Can have multiple snapshots with all the versions you want to support and can quickly test multiple platforms at once.
 
+Docker with an http cache makes Test Kitchen usable on cafe wifi
+
 ## What will we do now?  What needs to happen next?
