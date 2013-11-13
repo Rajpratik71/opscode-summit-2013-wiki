@@ -52,4 +52,6 @@ Philosophical difference - build system modifying the source code (committing al
 
 [thor-scmversion](https://github.com/RiotGames/thor-scmversion) manages version file based on tags
 
+Doc generation?  [yard-chef](https://github.com/rightscale/yard-chef) and knife-cloud
+
 ## What will we do now?  What needs to happen next?
