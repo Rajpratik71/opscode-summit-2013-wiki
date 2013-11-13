@@ -21,4 +21,6 @@ Opscode merged a bunch of work to make Test Kitchen work better with non-Unix Li
 
 What form is the documentation going to take?  Readme/wiki?  Do you need help?  Plan to have standalone web site for Test Kitchen, not a 3000 mile long README.  A reasonable getting-started guide.  Want to have getting started guide similar to [Packer](http://www.packer.io/intro).  Page per concept.  Found that almost nobody likes writing docs.
 
+The Test Kitchen repos are going to be split into it's own Github community.  All the drivers and gems will all be in one place.
+
 ## What will we do now?  What needs to happen next?
