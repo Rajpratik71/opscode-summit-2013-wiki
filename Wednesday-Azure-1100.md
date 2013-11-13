@@ -42,6 +42,8 @@ Manual quality gate or marketing gate still a problem.
 
 JCloud plugin for Jenkins - should support hot slaves in the cloud -not ready for prime time
 
+What about emergency patches?  External updates?  External updates should be just a matter of testing the app.  Perhaps consider "thou shalt not install from the interwebs".
 
+fpm - used to bundle gems as an rpm - love fpm
 
 ## What will we do now?  What needs to happen next?
