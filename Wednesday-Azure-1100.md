@@ -44,6 +44,6 @@ JCloud plugin for Jenkins - should support hot slaves in the cloud -not ready fo
 
 What about emergency patches?  External updates?  External updates should be just a matter of testing the app.  Perhaps consider "thou shalt not install from the interwebs".
 
-fpm - used to bundle gems as an rpm - love fpm
+[fpm](https://github.com/jordansissel/fpm) - used to bundle gems as an rpm - love fpm, great for debian
 
 ## What will we do now?  What needs to happen next?
