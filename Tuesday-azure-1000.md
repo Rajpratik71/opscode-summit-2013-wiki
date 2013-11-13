@@ -80,3 +80,7 @@ How long do you need to move off Chef 10?  6 months after getting Chef 11 into p
 * Omnitruck/yum/apt repositories - 20
 * Depend on specific cookbook components - 1
 * Do something about JSON - 5
+
+## What's missing
+
+* Ability to debug attribute changes in Chef
