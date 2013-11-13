@@ -179,3 +179,5 @@ Get it to run against EC2, CloudStack, etc. instead of just LXC.  Use drivers fr
 Look at making it also a small little daemon so the ruby bits always stay in memory and be faster - goal is to make it much faster - look at all the ways to make it go faster.
 
 Hope to be able to mix and match EC2, CloudStack, Rackspace nodes together.
+
+Promise to make it more stable so other people can use it.  Problem so far is that it is also being used for Chris's personal development, so it has varied in stability in the past.
