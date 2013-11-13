@@ -31,4 +31,6 @@ Bats was an experiment for a plugin.  Simplest was to write a shell script for a
 
 Serverspec is great because it works on Windows - has WinRM built into it.
 
+After 1.0, want Windows Guest support and multi-provisioner support for Test Kitchen (like Puppet!)
+
 ## What will we do now?  What needs to happen next?
