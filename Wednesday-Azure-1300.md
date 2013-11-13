@@ -39,6 +39,25 @@ Two ways to run Chef Server with vagabond:
 1) Erchef - Template with erchef to generate instances
 2) Cher Zero - Better for low resource environments (erchef can be heavy)
 
+`vagabondfile` describes what we have:
+
+    Vagbondfile.describe do
+      defaults do
+        template 'ubuntu_1204'
+        union 'aufs'
+      end
+      nodes.cacher.run_list %w(recipe[apt::cacher-ng])
+      nodes.client.run_list %w(recipe[apt::cacher-client])
+      clusters.cache %w(cacher client)
+      server do
+        zero true
+        enabled true
+        auto_upload true
+      end
+    end
+
+Support for librarian & berkshelf
+
 ## Summary of Discussions
 
 ## What will we do now?  What needs to happen next?
