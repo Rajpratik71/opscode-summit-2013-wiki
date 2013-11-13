@@ -25,7 +25,7 @@ Doug Ireton
 * API generated audit trail
 * omnibus packages hosted by chef server (omnitruck? Bootstrapper?)
 
-Ordered list: ![Twitter](https://mobile.twitter.com/btmspox/status/400699453335539712/photo/1)
+Ordered list: [image on Twitter](https://mobile.twitter.com/btmspox/status/400699453335539712/photo/1)
 ## What will we do now?  What needs to happen next?
 
 Chef 12 Features
