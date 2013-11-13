@@ -2,15 +2,15 @@ Diversifying the Community - We love ladies!
 =============
 
 ## Convener
-Makana Greenwell
-Joshua Timberman
+Makana Greenwell  
+Joshua Timberman  
 
 ## Participants
-Clair McQuin
-Rhiannon Portwood
-Matt Watson
-Noah Kantrowitz
-Nathan Harvey
+Clair McQuin  
+Rhiannon Portwood  
+Matt Watson  
+Noah Kantrowitz  
+Nathan Harvey  
 
 ## Summary of Discussions
 What Opscode Community can do:
