@@ -28,3 +28,9 @@ to 1.9 binary compatibility, so existing gems didn't work until you compiled the
 Chef 12 support in a post-container world (Docker LWRPs) - John Kaiser working on low-level machine abstraction
 
 LXC components now namespaces, need to support that - route, ifconfig, etc.
+
+Opscode does not want to tackle tools that manage network or storage
+
+Database agnostic - tied to Postgres?  Tried this with hosted in Percona build of MySQL - didn't work with a database abstraction.  Don't want to waste time doing workarounds with MySQL - also not going back to CouchDB ;-)
+
+
