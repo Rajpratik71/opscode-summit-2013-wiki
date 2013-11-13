@@ -24,5 +24,8 @@ http://ci.openstack.org also good resource
 
 Have super projects master branches pulling in sub projects - use Git as the verification mechanism
 
-## What will we do now?  What needs to happen next?
+Problem pinning Jenkins versions - ever changing versions of plugins.  Solution - deploy Jenkins with Chef
 
+Alternative to Jenkins?  [Thoughtworks Go](http://www.thoughtworks.com/products/go-continuous-delivery)
+
+## What will we do now?  What needs to happen next?
