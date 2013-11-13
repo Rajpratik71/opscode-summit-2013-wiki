@@ -33,6 +33,11 @@ Can specify templates
 
 Takes initial base, converting it to some state, then snapshot the configuration and build templates out
 
+After this initial slow run, everything else is really fast - all ephemeral nodes because it just sets up mount points on an overlay directory.  All changes are local (nothing saved elsewhere).  Easy to set up & tear down.
+
+Two ways to run Chef Server with vagabond:
+1) Erchef - Template with erchef to generate instances
+
 
 ## Summary of Discussions
 
