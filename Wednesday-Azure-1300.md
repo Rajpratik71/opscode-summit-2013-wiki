@@ -19,7 +19,21 @@ Been around for a little while
 
 Under the hood uses an LXC cookbook to provision a system - a lot of state for it to work
 
+Haven't been talking about it much because it's been changing frequently & used for personal projects
+
+More proper release done the night before the comment summit
+
+What it provides:
+
+Runs off of LXC, initial provision takes a long time
+
+Builds base templates for stuff being used (right now Ubuntu default)
+
+Can specify templates
+
+Takes initial base, converting it to some state, then snapshot the configuration and build templates out
+
+
 ## Summary of Discussions
 
 ## What will we do now?  What needs to happen next?
-
