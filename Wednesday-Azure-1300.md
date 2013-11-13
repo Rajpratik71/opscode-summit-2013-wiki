@@ -170,5 +170,8 @@ Unwittingly used thor for command line, need to switch to mixlibs
 
 Can set wait condition when things are finished when things are run in parallel?  For example, start running cookbooks when node has converged?  The Spec testing will do that - runs everything in parallel to create nodes, waits for that to finish, then runs the tests.
 
-
 ## What will we do now?  What needs to happen next?
+
+Get Spec stuff finished
+
+Get it to run against EC2, CloudStack, etc. instead of just LXC.  Use drivers from Test Kitchen (Sean Porter).  Make interface for Test Kitchen drivers to support this.
