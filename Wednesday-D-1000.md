@@ -19,12 +19,11 @@ What Opscode Community can do:
             Code Review  
             Documentation  
             QA/Test etc.  
-
     Submit your code before you submit:  
         Nice folks who check out your code before you throw it up  on the community site  
         Nice check yourself, make sure you're not being the asshole that drives others away, always constructive criticism  
-
-
+ 
+ 
 What individuals can do:  
     Expose yourself to the target group:  
         You're big scary dudes.  It's less scary when we meet you... one at a time  
