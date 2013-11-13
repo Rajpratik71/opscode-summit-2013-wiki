@@ -1,4 +1,4 @@
-It's not Bundler
+Chef dependency graph resolution, it's not Bundler
 =============
 
 ## Convener
