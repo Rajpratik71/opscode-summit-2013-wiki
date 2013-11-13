@@ -137,4 +137,5 @@ Serverspec is acceptance testing portion of Vagabond
     it{ should be_listening }
   end
 
+`spec` block defines what we're doing - stuff to test clusters is kinda working
 ## What will we do now?  What needs to happen next?
