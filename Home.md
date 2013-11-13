@@ -60,5 +60,5 @@ Seattle, Washington 98101
 | 1000 |   | [Chef dependency graph](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-E-1030)  | [Chef 12 Features](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1000)      |    [Cleaning Unused Resources Zap::](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Cobalt-1000)    |      |         |
 | 1100 |   |   | [Continuous Integration/Continuous Delivery](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1100)      |        |      | [Revisiting Search](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-SteelA-1100)     |
 | 1200 | Lunch | Lunch | Lunch | Lunch | Lunch | Lunch |
-| 1300 |   |   |       |        |      |         |
+| 1300 |   |   | [Multi-node testing & Vagabond](https://github.com/opscode/opscode-summit-2013/wiki/Wednesday-Azure-1300)      |        |      |         |
 | 1400 |   |   |       |        |      |         |
