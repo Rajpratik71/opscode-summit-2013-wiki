@@ -33,7 +33,7 @@ Seattle, Washington 98101
 | Time | D | E | Azure                                  | Cobalt | Cyan | Steel A |
 |------|---|---|----------------------------------------|--------|------|---------|
 | 1030 | [Cookbook / ICLA Site](wiki/Tuesday-D-1030)  | [Infrastructure as Code, as software](wiki/Tuesday-E-1030)  |[Introduction to Crowbar](wiki/Tuesday-Azure-1030)| [Better Chef on Windows](https://github.com/opscode/opscode-summit-2013/wiki/Tuesday-Cobalt-1030)       |      |         |
-| 1130 | Working with App Images (Containers)  | [Open Source Policy / Pushy](wiki/Tuesday-E-1130) | [What's up with Berks 3?](wiki/Tuesday-Azure-1130) | [Platform specific dependencies](wiki/Cross-platform-dependencies) |      | Vagrant (chef-solo to chef-zero) |
+| 1130 | [Working with App Images (Containers)](wiki/Tuesday-D-1130) | [Open Source Policy / Pushy](wiki/Tuesday-E-1130) | [What's up with Berks 3?](wiki/Tuesday-Azure-1130) | [Platform specific dependencies](wiki/Cross-platform-dependencies) |      | Vagrant (chef-solo to chef-zero) |
 | 1230 | Lunch | Lunch | Lunch | Lunch |   Lunch   | Lunch |
 | 1330 | Post deployment verification | Chef Training | [ChefSpec 3](wiki/Tuesday-E-1330) | Wrapping chef-client in erlang | [Chef and Security](https://github.com/opscode/opscode-summit-2013/wiki/Tuesday-Cyan-1330) | Attribute validation |
 | 1430 | Cookbook Libraries as gems | Chef metrics and monitoring | [Chef Development Toolsets](wiki/Tuesday-E-1430) | Server conversion to Chef | [Openstack](wiki/Tuesday-Cyan-1430) | Celluloid (is it good?) |
