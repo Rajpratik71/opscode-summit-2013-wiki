@@ -41,6 +41,6 @@ Possibly need to work out issues with Chef Zero and using older versions of Chef
 
 Anyone using the Test Kitchen EC2 driver?  You can rack up a huge bill.  You need to use destroy=true.  Digital Ocean driver for Test Kitchen - has per minute billing unlike Amazon.
 
-
+Pete has been working with Julian to create FreeBSD boxes for use with Test Kitchen: https://github.com/opscode/bento  Test Kitchen will soon magically be able to pull down FreeBSD boxes.
 
 ## What will we do now?  What needs to happen next?
