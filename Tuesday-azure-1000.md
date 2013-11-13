@@ -34,3 +34,13 @@ Opscode does not want to tackle tools that manage network or storage
 Database agnostic - tied to Postgres?  Tried this with hosted in Percona build of MySQL - didn't work with a database abstraction.  Don't want to waste time doing workarounds with MySQL - also not going back to CouchDB ;-)
 
 Better support for node attribute debugging in [CHEF-2913](https://tickets.opscode.com/browse/CHEF-2913) - Provide tracing of attribute changes at runtime
+
+## Feature suggestions
+
+Versioned roles and environments
+
+Versioned databags
+
+Cluster definitions - add cluster as a first-class data structure (covered by John Kaiser work)
+
+Clean up dynamic use of EC2 nodes used, polluting the Chef server - remove nodes that are no longer provisioned, etc.  Perhaps add TTL field to node.  Right now people need to run cron jobs to clean things up.
