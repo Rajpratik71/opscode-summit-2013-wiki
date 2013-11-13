@@ -122,5 +122,19 @@ Do I need an external tool to validate the cluster?  Vagabond integrates with Te
 Did youtube video with Matt Ray on how this works
 http://www.youtube.com/watch?v=FuarlNKs_FY&noredirect=1
 
+How do you run cluster tests?  Passthrough to Test Kitchen
+`./bin/vagabond kitchen`
+
+Also supports [ServerSpec](http://serverspec.org) can run spec against the cluster in the `spec/` directory.  For a node, looks at the run_list, specs related to the node in the directory should pass
+
+Serverspec is acceptance testing portion of Vagabond
+
+`cat recipe/apt/cacher-ng/service.rb`
+
+  require 'spec_helper'
+
+  describe port(3142) do
+    it{ should be_listening }
+  end
 
 ## What will we do now?  What needs to happen next?
