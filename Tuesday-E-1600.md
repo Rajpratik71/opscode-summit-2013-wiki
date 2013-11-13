@@ -27,6 +27,8 @@ Don't wait on the 1.0 release to start looking at it.  It won't change very much
 
 Opscode is moving away from bats in Test Kitchen.  Standardizing on ServerSpec for integration testing (because engineering team uses RSpec).
 
-Bats was an experiment for a plugin.  Simplest was to write a shell script for a test.  Was capturing test knowledge in shell code.  Once you go multi-platform it gets more difficult to use shell scripts.  Not that you can't mix multiple test runners.
+Bats was an experiment for a plugin.  Simplest was to write a shell script for a test.  Was capturing test knowledge in shell code.  Once you go multi-platform it gets more difficult to use shell scripts.  Not that you can't mix multiple test runners.  If bats is working for you, it's great.
+
+Serverspec is great because it works on Windows - has WinRM built into it.
 
 ## What will we do now?  What needs to happen next?
