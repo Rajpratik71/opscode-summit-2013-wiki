@@ -42,20 +42,18 @@ Versioned Attributes
 
 Taking away Ruby 1.8.7 Support in Chef 12
 
-Just use core JSON (Yagile in core Ruby)
+Just use core JSON (YAJL in core Ruby)
 
 Make error messages not terrible (at character 80 there was an error)
 
-Fix JSON
+Fix JSON -- Get rid of YAJL use core JSON
 
-Get rid of Yagile use core JSON
-
-Yagile is seems to be abandonware
+YAJL Rubygem seems to be abandonware (some discussion about a libffi wrapper to the C library - Dan DeLeo says that would be the idea if we keep using it)
 
 Does Ruby 2.0 work on Windows (When Ruby 2.0 first came out, compiled version of the libraries switched on 1.8 
 to 1.9 binary compatibility, so existing gems didn't work until you compiled them yourself)
 
-Chef 12 support in a post-container world (Docker LWRPs) - John Kaiser working on low-level machine abstraction
+Chef 12 support in a post-container world (Docker LWRPs) - John Keiser working on low-level machine abstraction
 
 LXC components now namespaces, need to support that - route, ifconfig, etc.
 
