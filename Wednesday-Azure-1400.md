@@ -24,8 +24,14 @@ Repo servers and proxying - how to get Splunk servers building in your environme
 
 Security
 
+Innovation in my current job - Create a single object defining a whole stack - different roles of spunk machines.  Plus add build rules.
+
+Documentation
+
+Promotion rules - QA team cutting release, manual steps for ops team to deploy.
 
 
 
 ## What will we do now?  What needs to happen next?
 
+Go back to Opscode to provide a build service for the community to collectively improve
