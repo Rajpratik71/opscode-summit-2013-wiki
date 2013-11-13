@@ -15,6 +15,7 @@ Brian Scott (Disney)
 Mark Mzyk (Opscode)  
 Jon DeCamp (Nordstrom)  
 Jeff Hagadorn (Disney)  
+Adam Edwards (Opscode)  
 
 ## Summary of Discussions
 
