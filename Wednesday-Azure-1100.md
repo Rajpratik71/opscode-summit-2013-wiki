@@ -30,4 +30,6 @@ Problem pinning Jenkins versions - ever changing versions of plugins.  Solution 
 
 Alternative to Jenkins?  [Thoughtworks Go](http://www.thoughtworks.com/products/go-continuous-delivery)
 
+[Strider CD](https://github.com/Strider-CD) Nothing for programmatically adding jobs, but they are open to this.  Relatively new job.
+
 ## What will we do now?  What needs to happen next?
