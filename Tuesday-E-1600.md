@@ -47,6 +47,6 @@ Has anyone tried writing a driver?  Ideas for drivers - zones, chroot & FreeBSD 
 
 BOSH - Helpful for deploying CloudFoundry
 
-Neat trick  - you can use ERB templates in your .kitchen.yml to handle multiple platforms.  [Miah has an example of this technique in her .kitchen.yml files](https://github.com/miah/chef-redis/blob/master/.kitchen.yml)
+Neat trick  - you can use ERB templates in your .kitchen.yml to handle multiple platforms.  [Miah has an example of this technique in her .kitchen.yml files](https://github.com/miah/chef-redis/blob/master/.kitchen.yml).  This is a helpful way to avoid big-ass .kitchen.yml files.  Many people were hoping to avoid having big-ass Vagrantfiles with all your platform-permutations and this is a technique unique to Test Kitchen.
 
 ## What will we do now?  What needs to happen next?
