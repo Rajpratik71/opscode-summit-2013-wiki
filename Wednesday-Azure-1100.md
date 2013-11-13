@@ -48,4 +48,8 @@ What about emergency patches?  External updates?  External updates should be jus
 
 What to push the infrastructure itself through the CD system - recursively use the CD system to deploy the CD system.
 
+Philosophical difference - build system modifying the source code (committing all over the place) vs. tagging and other metadata
+
+[thor-scmversion](https://github.com/RiotGames/thor-scmversion) manages version file based on tags
+
 ## What will we do now?  What needs to happen next?
