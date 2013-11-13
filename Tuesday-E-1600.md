@@ -43,4 +43,10 @@ Anyone using the Test Kitchen EC2 driver?  You can rack up a huge bill.  You nee
 
 Pete has been working with Julian to create FreeBSD boxes for use with Test Kitchen: https://github.com/opscode/bento  Test Kitchen will soon magically be able to pull down FreeBSD boxes.
 
+Has anyone tried writing a driver?  Ideas for drivers - zones, chroot & FreeBSD jails - a fully-contained environment.
+
+BOSH - Helpful for deploying CloudFoundry
+
+Neat trick  - you can use ERB templates in your .kitchen.yml to handle multiple platforms.  [Miah has an example of this technique in her .kitchen.yml files](https://github.com/miah/chef-redis/blob/master/.kitchen.yml)
+
 ## What will we do now?  What needs to happen next?
