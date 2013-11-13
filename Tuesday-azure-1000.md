@@ -87,3 +87,5 @@ How long do you need to move off Chef 10?  6 months after getting Chef 11 into p
 * Garbage Collection - 8
 * Ability to freeze all cookbooks by default (no force - only get to upload it once) - 4
 * Metadata dependencies/platform dependencies in data
+
+Why is Ruby 2.0 voted so high?
