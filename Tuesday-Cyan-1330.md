@@ -7,7 +7,7 @@ Chef and security
 Sean Nolen
 Noah Kantrowitz
 Rich Braun
-Doug Ireton
+Jon DeCamp
 ## Summary of Discussions
 
 How can Chef help achieve/audit compliance?
