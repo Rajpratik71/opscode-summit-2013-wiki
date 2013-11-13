@@ -38,8 +38,7 @@ Nathan Harvey
                 * Hack session and pull a bug from the community, work as a group to fix it and check it back in as a group.  You all win, and if the asshole blast occurs, it doesn't hurt as much  
                 * Build cookbooks  
 	    Need a list of many of the groups in the area, they're hungry for people to teach
-        You don't have to change the world of women in engineering, you can change the world of engineering  
-for one woman.  One on one mentoring.  
+        **You don't have to change the world of women in engineering, you can change the world of engineering for one woman.**  One on one mentoring.  
         Find an advocate for you to help you break into the target group - 'token lady friend'  
 
 
