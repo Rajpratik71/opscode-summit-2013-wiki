@@ -6,6 +6,8 @@ Continuous Integration/Continuous Delivery
 Chris Wing
 
 ## Participants
+jim (Thor) west
+, ...
 
 ## Summary of Discussions
 
