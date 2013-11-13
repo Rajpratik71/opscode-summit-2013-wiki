@@ -45,4 +45,7 @@ Cluster definitions - add cluster as a first-class data structure (covered by Jo
 
 Clean up dynamic use of EC2 nodes used, polluting the Chef server - remove nodes that are no longer provisioned, etc.  Perhaps add TTL field to node.  Right now people need to run cron jobs to clean things up.  Might be a more generic solution around cleaning up old things - like pruning old cookbook versions.  Garbage collection on version policy.
 
-More flexible cookbook versioning, more than x.y.z, perhaps prerelease, rc1, rc2, etc.
+More flexible cookbook versioning, more than x.y.z, perhaps prerelease, rc1, rc2, etc.  Automatically keep change log.  Perhaps fully support server spec fully?  Currently there is Opscode semver.
+
+API generated audit trail for changes to the system - who f*cked up production.  Better if specialized for auditing and not just another log file.  Want audit trail on everything the system touches.
+
