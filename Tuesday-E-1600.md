@@ -39,4 +39,8 @@ Docker with an http cache makes Test Kitchen usable on cafe wifi
 
 Possibly need to work out issues with Chef Zero and using older versions of Chef.
 
+Anyone using the Test Kitchen EC2 driver?  You can rack up a huge bill.  You need to use destroy=true.  Digital Ocean driver for Test Kitchen - has per minute billing unlike Amazon.
+
+
+
 ## What will we do now?  What needs to happen next?
