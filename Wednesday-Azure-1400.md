@@ -56,6 +56,12 @@ Intention is that this defines how you define software development and backing t
 
 How do you help you along the way?  We need to work that out?
 
+Conversation should be around good standard patterns for CD.  Pretty confident that we can define one or two different patterns for CD, no matter what the tool.
+
+Problem discovered so far has been to try to make the pipeline flexible, leads to unexpected complexity.
+
+This product from Opscode will replace Jenkins.
+
 
 
 ## What will we do now?  What needs to happen next?
