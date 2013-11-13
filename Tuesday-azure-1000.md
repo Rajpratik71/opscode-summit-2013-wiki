@@ -53,4 +53,4 @@ Important to know when someone pushes a cookbook or uses `knife node edit` - who
 
 Different use case for auditing - customers have straight guidelines for change management - ITIL/SA16 - for compliance purposes.  Hook would be perfect for this.  System to Hook into: Tivoli event manager, Logstash, stated.  Need something out of the box.  There is a lack of documentation on how to write event/report handlers.  Most people don't know event handlers exist.
 
-Local mirror of chef installers/bootstrap template.
+Local mirror of chef installers/bootstrap template.  Opscode has tool - Omnitruck which does this, but doesn't solve the problem.  Customers need apt/yum repo with the server to distribute to thousands of nodes.  Nice to have local mirror of agent install and don't have to curl a bash script across the internet to install the chef client.
