@@ -57,4 +57,8 @@ Jon Kaiser who did Chef Zero is developing an abstraction of an instance running
 
 Test Kitchen isn't trying to solve the test dependency problem.  Vagabond isn't a good solution outside the Linux world.  Possible to use Test Kitchen as a Ruby library (not too much code and is structured in a way so that's possible - was working work Stephen Nelson-Smith to using test instances and drivers this way to describe how to create nodes and wire them together - test kitchen can be plumbing - and it worked pretty well).  You can also override the data loader if you don't like YAML, for example.  Played with Sean to override stuff in Ruby code rather than Gem/YAML.  Test Kitchen doesn't have the mechanics to know which node comes up first, though.   Was intended to test a single cookbook standalone.  chef-solo can have a nodes directory with IP addresses to fake it out.  Not really intended for cluster testing yet.
 
+First time Test Kitchen - difference between `kitchen converge`, `kitchen test`, `kitchen verify'.  What's the difference between test and verify.  Test transfers files to the node so they're fresh, verify does not.  By default `kitchen test` automatically destroys (can be overridden), unless the test run fails (except with the EC2 provider).  That being said, carefully monitor EC2 usage.
+
+How does Test Kitchen know about dependent cookbooks?  What if A calls B, how does Test Kitchen know about that?  Test Kitchen is Berksfile aware - it will haul stuff in.
+
 ## What will we do now?  What needs to happen next?
