@@ -86,6 +86,7 @@ Bad cookbook!  Doesn't play nicely with EC2.
 Write Jenkins plugin for Chef to tide us through until this thing is ready from Opscode?
 
 [Janitor Monkey](http://techblog.netflix.com/2013/01/janitor-monkey-keeping-cloud-tidy-and.html) - Cleans up unused EC2 cloud instances
+Part of [Simian Army](https://github.com/Netflix/simianarmy)
 
 ## What will we do now?  What needs to happen next?
 
