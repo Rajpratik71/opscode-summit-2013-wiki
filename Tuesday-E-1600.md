@@ -59,6 +59,6 @@ Test Kitchen isn't trying to solve the test dependency problem.  Vagabond isn't 
 
 First time Test Kitchen - difference between `kitchen converge`, `kitchen test`, `kitchen verify'.  What's the difference between test and verify.  Test transfers files to the node so they're fresh, verify does not.  By default `kitchen test` automatically destroys (can be overridden), unless the test run fails (except with the EC2 provider).  That being said, carefully monitor EC2 usage.
 
-How does Test Kitchen know about dependent cookbooks?  What if A calls B, how does Test Kitchen know about that?  Test Kitchen is Berksfile aware - it will haul stuff in.
+How does Test Kitchen know about dependent cookbooks?  What if A calls B, how does Test Kitchen know about that?  Test Kitchen is Berksfile aware - it will haul stuff in.  Test Kitchen abuses Berkshelf in that it just uses the dependency resolver to copy cookbooks in via scp.
 
 ## What will we do now?  What needs to happen next?
