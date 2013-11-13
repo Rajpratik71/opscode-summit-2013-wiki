@@ -2,6 +2,8 @@ Chef 12 Features
 ================
 
 Chef 12 Feature discussion
+
+https://wiki.opscode.com/display/chef/Suggestions+for+2013+Community+Summit
 wiki.opscode.com / community summit page
 
 Ruby 2.0 Support / Omnibus with Ruby 2.0
@@ -25,4 +27,4 @@ to 1.9 binary compatibility, so existing gems didn't work until you compiled the
 
 Chef 12 support in a post-container world (Docker LWRPs) - John Kaiser working on low-level machine abstraction
 
-Network abstractions - route, ifconfig, etc.
+LXC components now namespaces, need to support that - route, ifconfig, etc.
