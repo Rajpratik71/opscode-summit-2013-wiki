@@ -3,7 +3,7 @@ Multi-Node Testing and Vagabond
 
 ## Convener
 
-Chris
+Chris Roberts
 
 ## Participants
 
@@ -69,5 +69,7 @@ Can specify a bunch of defaults, then override in other configs
 We can do anything we can do with LXC - freeze nodes in a particular state, then thaw it out vs. needing to build stuff up then tear it back down.
 
 Node is namespaces differently.
+
+Very fast
 
 ## What will we do now?  What needs to happen next?
