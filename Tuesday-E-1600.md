@@ -49,6 +49,8 @@ BOSH - Helpful for deploying CloudFoundry
 
 Neat trick  - you can use ERB templates in your .kitchen.yml to handle multiple platforms.  [Miah has an example of this technique in her .kitchen.yml files](https://github.com/miah/chef-redis/blob/master/.kitchen.yml).  This is a helpful way to avoid big-ass .kitchen.yml files.  Many people were hoping to avoid having big-ass Vagrantfiles with all your platform-permutations and this is a technique unique to Test Kitchen.
 
-How do you run the same runlist against different drivers - right now use environment variables for this (or symlinks).  Might be nice to have the driver separate from the suites so you don't have to combine it.  For example, switching between docker and vagrant.  Another technique, a $HOME/.kitchen/.kitchen.yml can provide some defaults to override.
+How do you run the same runlist against different drivers - right now use environment variables for this (or symlinks).  Might be nice to have the driver separate from the suites so you don't have to combine it.  For example, switching between docker and vagrant.  Another technique, a $HOME/.kitchen/.kitchen.yml can provide some defaults to override.  Can also be used to configure reasonable defaults for vagrant basebox URLs and EC2 AMIs (for vagrant).  Kitchen-EC2 now has a big list of AMIs in it as .JSON to work across all the regions.  Now you should be able to scrub through drivers with multiple ease.
+
+What about multiple BM Test Kitchen runs?  There is Vagabond with LXC.  Might be easy to add suite dependencies and run erchef on the host to run the suite.  (Fletcher is groaning).
 
 ## What will we do now?  What needs to happen next?
