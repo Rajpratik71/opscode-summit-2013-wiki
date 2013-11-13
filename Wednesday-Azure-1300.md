@@ -113,4 +113,10 @@ Philosophy is that you build chef from scratch then build node out
 
 Based on LXC cookbook.  All structures used to build LXC containers can be specified in the Vagabondfile
 
+No image shipping
+
+Possible advantage to Docker, would build outside your workstation on structure - but basically re-building vagrant at that point
+
+
+
 ## What will we do now?  What needs to happen next?
