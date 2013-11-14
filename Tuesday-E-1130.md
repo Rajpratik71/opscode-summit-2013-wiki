@@ -8,7 +8,7 @@ Opscode Open Source Strategy and Pushy
 [Kevin Smith](https://twitter.com/kevsmith)  
 [Kevin Knoepp](https://twitter.com/kevinknoepp)  
 [Jim (Thor) West](https://twitter.com/medieval1)  
-[Adam Vinsh](https://twitter.com/adamvinsh)
+[Adam Vinsh](https://twitter.com/adamvinsh)  
 [Gregoire Seux](https://twitter.com/kamaradclimber)  
 [Jeffrey Hulten](https://twitter.com/jhulten)  
 [Adam Jacob](https://twitter.com/adamhjk)  
