@@ -14,7 +14,7 @@ Thanks for an awesome Community Summit!
 | 1130 | [Working with App Images (Containers)](wiki/Tuesday-D-1130) | [Open Source Policy / Pushy](wiki/Tuesday-E-1130) | [What's up with Berks 3?](wiki/Tuesday-Azure-1130) | [Platform specific dependencies](wiki/Cross-platform-dependencies) | [cyan](wiki/Tuesday-Cyan-1130)     | [Vagrant (chef-solo to chef-zero)](wiki/Tuesday-Steel-A-1130) |
 | 1330 | [Post deployment verification](wiki/Tuesday-D-1330) | [Chef Training](https://docs.google.com/document/d/1RJ7jspmby5hQ3Ay_TUQJaX6aZxTUfo5k9mYBw_FsQgU/edit) | [ChefSpec 3](wiki/Tuesday-E-1330) | Wrapping chef-client in erlang | [Chef and Security](wiki/Tuesday-Cyan-1330) | Attribute validation |
 | 1430 | [Cookbook Libraries as gems](wiki/Tuesday-D-1430) | [Chef metrics and monitoring](wiki/Tuesday-E-1430) | [Chef Development Toolsets](wiki/Tuesday-E-1430) | [Server conversion to Chef](wiki/Tuesday-Cobalt-1430) | [Openstack](wiki/Tuesday-Cyan-1430) | [Celluloid (is it good?)](wiki/Tuesday-Steel-A-1430) |
-| 1600 | [Service discovery and Orchestration]((wiki/Tuesday-D-1600)) | [E 1600]((wiki/Tuesday-E-1600))  | [Test kitchen - a discussion](wiki/Tuesday-E-1600) | [Chef 12, Version all the things](wiki/Tuesday-Cobalt-1600) |  | [Private/Enterprise chef support group](wiki/Tuesday-Steel-A-1600) |
+| 1600 | [Service discovery and Orchestration](wiki/Tuesday-D-1600) | [E 1600](wiki/Tuesday-E-1600)  | [Test kitchen - a discussion](wiki/Tuesday-E-1600) | [Chef 12, Version all the things](wiki/Tuesday-Cobalt-1600) |  | [Private/Enterprise chef support group](wiki/Tuesday-Steel-A-1600) |
 
 ### Wednesday, November 13
 
