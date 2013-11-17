@@ -22,5 +22,5 @@ Thanks for an awesome Community Summit!
 |------|---|---|-------|--------|------|---------|
 | 1000 |  [Diversifying the Community](wiki/Wednesday-D-1000) | [Chef dependency graph](wiki/Wednesday-E-1030)  | [Chef 12 Features](wiki/Wednesday-Azure-1000)      |    [Cleaning Unused Resources Zap::](wiki/Wednesday-Cobalt-1000)    |      |         |
 | 1100 |   |   | [Continuous Integration/Continuous Delivery](wiki/Wednesday-Azure-1100)      |        |      | [Revisiting Search](wiki/Wednesday-SteelA-1100)     |
-| 1300 |   |   | [Multi-node testing & Vagabond](wiki/Wednesday-Azure-1300)      |        |      |         |
+| 1300 |   | [Tooling Discussion](wiki/Wednesday-E-1300)  | [Multi-node testing & Vagabond](wiki/Wednesday-Azure-1300)      |        |      |         |
 | 1400 |   |   | [Build Systems](wiki/Wednesday-Azure-1400)      |        |      |         |
