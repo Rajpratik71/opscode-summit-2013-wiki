@@ -16,6 +16,7 @@ Mark Mzyk (Opscode)
 Jon DeCamp (Nordstrom)  
 Jeff Hagadorn (Disney)  
 Adam Edwards (Opscode)  
+Jérémy MAURO (Criteo)
 
 ## Summary of Discussions
 
