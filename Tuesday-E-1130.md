@@ -11,7 +11,8 @@ Opscode Open Source Strategy and Pushy
 [Adam Vinsh](https://twitter.com/adamvinsh)  
 [Gregoire Seux](https://twitter.com/kamaradclimber)  
 [Jeffrey Hulten](https://twitter.com/jhulten)  
-[Adam Jacob](https://twitter.com/adamhjk)  
+[Adam Jacob](https://twitter.com/adamhjk)
+Jérémy MAURO (Criteo)  
 
 ## Summary of Discussions
 
