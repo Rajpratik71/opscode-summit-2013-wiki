@@ -9,10 +9,11 @@ Opscode Open Source Strategy and Pushy
 [Kevin Knoepp](https://twitter.com/kevinknoepp)  
 [Jim (Thor) West](https://twitter.com/medieval1)  
 [Adam Vinsh](https://twitter.com/adamvinsh)  
-[Gregoire Seux](https://twitter.com/kamaradclimber)  
+[Gregoire Seux](https://twitter.com/kamaradclimber) 
+[Jérémy MAURO](https://twitter.com/criteo)  
 [Jeffrey Hulten](https://twitter.com/jhulten)  
 [Adam Jacob](https://twitter.com/adamhjk)
-[Jérémy MAURO](https://twitter.com/criteo)
+
 
 ## Summary of Discussions
 
