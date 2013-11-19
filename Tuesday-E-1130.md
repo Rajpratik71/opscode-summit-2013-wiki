@@ -5,7 +5,7 @@ Opscode Open Source Strategy and Pushy
 [Barry Crist](https://twitter.com/barry_crist)
 
 ## Participants
-Jeremy MAURO
+Jeremy MAURO  
 [Kevin Smith](https://twitter.com/kevsmith)  
 [Kevin Knoepp](https://twitter.com/kevinknoepp)  
 [Jim (Thor) West](https://twitter.com/medieval1)  
