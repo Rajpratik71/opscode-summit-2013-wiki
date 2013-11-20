@@ -7,7 +7,8 @@ Chef Development Toolsets
 
 ## Participants
 jim (Thor) west
-, ...
+Jeremy MAURO  
+...
 
 ## Summary of Discussions
 
