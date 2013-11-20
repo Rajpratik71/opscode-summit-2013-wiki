@@ -6,7 +6,7 @@ Chef Development Toolsets
 [Charles Johnson](https://twitter.com/chipadeedoodah)
 
 ## Participants
-jim (Thor) west
+jim (Thor) west  
 Jeremy MAURO  
 ...
 
