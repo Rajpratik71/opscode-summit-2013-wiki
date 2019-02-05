@@ -8,7 +8,6 @@
 ## Participants
 
 - Clair McQuin
-- Rhiannon Portwood
 - Matt Watson
 - Noah Kantrowitz
 - Nathan Harvey
