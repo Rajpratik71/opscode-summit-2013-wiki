@@ -89,6 +89,7 @@ Jérémy MAURO (Criteo)
   * Windows impersonation
   * Powershell DSC
 
+
 ## Your knife Windows workstation config
  
 * Example: Emacs + ConEmu + git + chocolatey (http://chocolatey.org)
